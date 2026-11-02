@@ -1,0 +1,1 @@
+import{Zn as e}from"./shared-CNqglC5-.js";import{i as t,n,r}from"./item-Biy_SqJg.js";var{clientLoader:i,shouldRevalidate:a}=e();export{i as clientLoader,r as default,n as handle,t as meta,a as shouldRevalidate};
