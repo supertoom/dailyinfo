@@ -1,0 +1,1 @@
+import{Qn as e}from"./shared-Cxde6-41.js";import{i as t,n,r}from"./item-DaVv2F-w.js";var{clientLoader:i,shouldRevalidate:a}=e();export{i as clientLoader,r as default,n as handle,t as meta,a as shouldRevalidate};
