@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DailyInfo 日报</title>
+    <link>https://supertoom.github.io/dailyinfo/daily</link>
+    <description>DailyInfo 每天 08:00（北京时间）发布的精编日报，保留最近 30 期。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://supertoom.github.io/dailyinfo/feed/daily.xml" rel="self" type="application/rss+xml" />
+    <ttl>30</ttl>
+    <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-03 — Google 联合处置 XCPE 僵尸网络，Videostrong 预装后门感染逾 130 万台机顶盒]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-03</link>
+      <description><![CDATA[<p>Google 与行业伙伴已拆除 XCPE 后门相关控制基础设施，该后门将超过 1.3 million 台机顶盒及其他 Android IoT 设备纳入僵尸网络。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/zn3wl1ipk6y4uimbmwjbo86fy">Microsoft Windows Update Stack 本地权限提升漏洞 CVE-2026-81963 已复现并发现在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tqj4dxtikwan2dwzgf1hpjvys">Ivanti Connect Secure 三个零日漏洞已被链式利用，CVE-2026-111357 与 CVE-2026-118527 纳入 KEV</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wbjzunigapakv96vd54t9g53c">Google 联合处置 XCPE 僵尸网络，Videostrong 预装后门感染逾 130 万台机顶盒</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/c8c3sczng53jdb0j9x5vqc0ry">欧洲多国逾115家超市制冷系统遭攻击，门店被迫处置变质商品</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/t0wff82r3vhco60wkrm3qmm96">攻击者伪装 Microsoft Teams IT 支持，利用不安全 AD CS 窃取企业数据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/y3oqogzfuz08thepvfa99u3bx">BTCPay Server 旧版本实例遭遇热钱包盗取，2.4.1及更早版本需升级至2.4.7</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zpp06qhnjm5r6ekq6fx53gr5s">攻击者向乌克兰和俄罗斯民众发送虚假核威胁与袭击警报</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/k8iee38q6sr0000yquvlj925i">Google Cloud 披露 LLMJacking 攻击链，攻击者转售被盗企业 LLM 资源</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/o24ucbtgopfr2yuihm7llam2f">LocalAlign 通过近目标对抗训练提升大语言模型提示注入防御泛化能力</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/teaxhs6mgmqr7we21mxnq1hmt">Trail of Bits 使用 Codex 批量回移 Linux 安全修复，已覆盖 149 个 CVE</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-03">https://supertoom.github.io/dailyinfo/daily/2026-11-03</a></p>]]></description>
+      <pubDate>Tue, 03 Nov 2026 00:00:32 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-03</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-02 — FBI 将 Binance 63 亿美元加密资产窃取案归因于朝鲜 TraderTraitor]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-02</link>
+      <description><![CDATA[<p>FBI 确认朝鲜国家支持的 TraderTraitor 实施了 Binance 加密资产窃取案，涉及 2026 年 10 月 29 日前后超过 $6 billion 的虚拟资产，攻击者通过入侵 DevOps 工程师笔记本进入服务容器并提交未授权提现交易。</p>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/uu0z6mo1muhhj4bo1sst643w9">FBI 将 Binance 63 亿美元加密资产窃取案归因于朝鲜 TraderTraitor</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-02">https://supertoom.github.io/dailyinfo/daily/2026-11-02</a></p>]]></description>
+      <pubDate>Mon, 02 Nov 2026 00:00:29 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-02</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-01 — CNCERT 监测发现 VeilDHT 僵尸网络大范围感染 Linux 服务器与 IoT 设备]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-01</link>
+      <description><![CDATA[<p>CNCERT 监测发现新型僵尸网络 VeilDHT 正通过漏洞利用大范围传播，主要感染 Linux 服务器与 IoT 设备，2026年10月16日至26日境内累计感染40467台，日上线肉鸡最高15805台。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/midioamfhtgq777zsyrovhu36">Android CVE-2026-58882“短信死亡”漏洞分析与 PoC 复现</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/g1yjx90drqjyvf0az6cq04rgs">CNCERT 监测发现 VeilDHT 僵尸网络大范围感染 Linux 服务器与 IoT 设备</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/l8c38b2h5meavjepjvszce1ro">VOLTA-AUTODOXER 利用 LLM 对窃取数据进行受害者价值评估</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/cyr7bz2bmyz5ecu55k6xo4e2y">Northflank 安全 breach 导致客户 AI API 密钥被滥用</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/dovg5xscowbmox2u6l6m2s1lp">Parameter 揭示恶意 ChatGPT 分享链接代码执行漏洞利用链</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-01">https://supertoom.github.io/dailyinfo/daily/2026-11-01</a></p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 00:00:13 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-01</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-10-31 — Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-10-31</link>
+      <description><![CDATA[<p>Binance 约 63 亿美元加密货币被盗，TRM Labs 与 Chainalysis 均高置信度将攻击归因于朝鲜组织 TraderTraitor。初步调查显示，攻击者可能从一台被攻陷的 DevOps 工程师笔记本进入服务容器，提交未授权提现交易，并攻陷热钱包签名基础设施；Ethereum 上涉及 50 个预先签署的授权。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/o4jhgucdw0y08zpd9xy9goxcn">Linux 内核 CVE-2026-98432 可导致 MPTCP 服务器远程 root 提权</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/obhfumhh687s8ss7ottgn00g5">CISA 警告 Linux 内核 Fragnesia 漏洞 CVE-2026-46300 已与 PHP2Shell 在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/q1vo28ns0qmqkpolmr1fhziql">Google Brotli C 解码器 RCE 漏洞 CVE-2026-111497 影响 Node.js 等多类产品</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ndo10izcxlkye6sdeutgereno">Rust zip 9.0.0-pre3 暴露 Zip Slip 任意文件写入漏洞</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ae96k4vyaf9n7mzfdlf9k8j1e">TeamViewer 远程支持漏洞 CVE-2026-111585 可在技术支持人员电脑上执行代码</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/utwi4trkcm6q7c7e0bnt63sw8">Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vjdhd6f9hgfqlc9p5znn3m95n">Cursor Marketplace 上架的 Claude Code 扩展被植入持久化 SSH 后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kap6lzk1o51rm638fm4tiscnh">攻击者尝试利用 Alpine Linux GitLab 的 CVE-2026-97229 漏洞，CVSS 10.0</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/gu6ue1ilx7hnlwxcatqdphg4v">自称 Department of Peace 的黑客泄露逾 41,000 名 DHS 员工记录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kh5zbp42tkmy1pgddvyma6sb0">zkLink 遭攻击损失约 78.3 万美元，Arbitrator 合约验证逻辑被绕过</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ashq9zaym8iojmnulqhy7xxeb">Cloudflare披露eMudhra弱密钥证书利用迹象与访客补丁进度</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/els1gzklnlhxhh0k15ljle1lp">Rapid7 分析 BeyondTrust Remote Support 未认证文件上传至 RCE 漏洞 CVE-2026-102764</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-31">https://supertoom.github.io/dailyinfo/daily/2026-10-31</a></p>]]></description>
+      <pubDate>Sat, 31 Oct 2026 00:00:13 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-31</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-10-30 — Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-10-30</link>
+      <description><![CDATA[<p>Volt Typhoon 使用 Silent Train 中继框架，通过境外 VPS、被入侵的路由器及其他设备隐藏攻击来源，并利用至少 4 个零日漏洞攻击电信、政府、国防承包商、公用事业、卫星服务、航空等高价值目标。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/gz5wepydgx19541hqwvty4syk">Cisco ASA 与 FTD 远程访问 SSL VPN 隧道 DoS 漏洞 CVE-2026-76418 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xpytoqbtuulo3rw9z3h510qhs">Mem0 会话范围键分隔符碰撞漏洞可导致跨租户对话泄露</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/n8ley102n83kjrh7ne1s1q0wy">Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m8vt0mfprflyha4qd0f1jbnwd">VAPOR PANDA 使用 ARTEX 与 DeepSeek 并行入侵全球 200 多家组织</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ihl9k919cuk2zeu8m5uh5sr73">Polymarket 因第三方服务遭入侵暂停交易，约 $2.5M 加密资产被追踪</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/r33vqb4ahc08c2y4ozgccut2g">疑似中国关联攻击者利用 PHP2Shell 在 25 台服务器取得 root 权限并渗透 Active Directory</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wsntmow6j7f4emvphlkjlx4fh">独立研究员在 Gitee 公开仓库发现 26,400 个仍有效的云与 AI 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bd7wabp95rfnfjrzp7ji0kci5">TrendAI 指 Discover-Tech 通过数字广告跟踪 Starlink 用户</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xn04uir3ppltopryw25ryri8a">Orange Tsai 披露 Microsoft Edge 纯逻辑漏洞全链，实现沙箱逃逸与 ACE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/n7t33b4zzyzxy6gb2u55dbm5s">cert-manager 直接创建 Challenge 可绕过 DNS01 策略并泄露 acme-dns 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nvjhxml6qmgj1n5fihl71npjw">php2shell 技术分析：PHP 两个 RCE 生命周期漏洞 CVE-2026-109618 与 CVE-2026-109619</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/s5egftxgd4pzsuybtmy9c5i8d">Forever Security 披露 Cursor、Copilot、Codex、VS Code 与 Claude Desktop 内置浏览器漏洞</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-30">https://supertoom.github.io/dailyinfo/daily/2026-10-30</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:19 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-30</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-10-29 — GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-10-29</link>
+      <description><![CDATA[<p>GMO旗下Onamae云桌面服务遭网络攻击，最多26,739名客户的服务器被植入恶意软件，客户支付信息未泄露，但MT4/MT5登录凭证及交易账号信息可能暴露。攻击者窃取数据后索要高达80亿日元赎金，并威胁启动已植入的勒索软件载荷。GMO关闭相关服务器并敦促客户断网关机、重置密码和终止会话；目前尚未发现客户电脑上的勒索软件被激活。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/mnxtybnzit795ejslskcd1v8b">Oracle E-Business Suite 漏洞 CVE-2026-101767 补丁后遭探索性利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/sn7aglzxgosi5bih83rljqrmt">CISA 确认 PHP2Shell 漏洞 CVE-2026-109618 和 CVE-2026-109619 已遭在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jtfc7xy2x7a2pqxrr0ivv2g1k">CISA确认攻击者正在利用Brotli漏洞CVE-2026-111497</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ab8pl4m4w1rix1cyy06pzrdy7">Model Context Protocol Python SDK 客户端漏洞可触发外部 URL 请求或本地文件读取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a86w01coohmdcf89mgj77w1j0">FileBrowser 1.3.3-stable 符号链接越界导致目录外任意文件读取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vsfs000d1boyjr3m5ahd2iza2">Tailscale 修复 Tailworm SSH 漏洞，v1.104.4 已发布</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/z1aubpyma2sr8f7iyg11db39j">EDK II UEFI 漏洞 CVE-2026-97631 可在预操作系统阶段执行任意代码</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/zwh7qiot8b8294xdoeg7i356t">GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vuvau9rjn8ik414g6xpi91tx9">攻击者利用 Microsoft Teams 冒充 IT 支持，部署 GoGRPC 后门与 Chaos 勒索软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/f1ouf60ewvurduuj73co4r1ov">LodaRAT 以伪造美国法院通知钓鱼，已针对逾 100,000 家企业</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lpx0fpf5dtulg95plg0vd0qsv">FBI 查封 Virtualine 防弹托管域名及其犯罪论坛</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/hdxaeayrb1qzp0s15cvtw0yuv">Trend Micro 分析三起以日本为主要目标的 AI 辅助网络攻击</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-29">https://supertoom.github.io/dailyinfo/daily/2026-10-29</a></p>]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:14:31 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-10-29</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DailyInfo 月报</title>
+    <link>https://supertoom.github.io/dailyinfo/monthly</link>
+    <description>DailyInfo 每月 1 日 10:30（北京时间）发布的月报：从上个月每天的日报里选出的安全要闻，按栏目分好，附总述；保留最近 12 期。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://supertoom.github.io/dailyinfo/feed/monthly.xml" rel="self" type="application/rss+xml" />
+    <ttl>360</ttl>
+    <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
+    <item>
+      <title><![CDATA[DailyInfo 月报 · 2026-10 — Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor]]></title>
+      <link>https://supertoom.github.io/dailyinfo/monthly/2026-10</link>
+      <description><![CDATA[<p>网络设备与操作系统漏洞成为在野攻击重点，Cisco ASA 与 FTD、Brotli、Linux 内核 Fragnesia 及 PHP2Shell 均已出现利用。攻击活动广泛指向云平台、交易平台和开发工具，Volt Typhoon 借助 Silent Train 隐藏来源，VAPOR PANDA 并行入侵全球 200 多家组织。防御方持续处置大型事件，GMO 关闭 Onamae 相关服务器，CISA 要求联邦机构修复 Brotli 漏洞，TeamViewer 与 Tailscale 分别发布修复。研究披露则聚焦 PHP 远程代码执行、Microsoft Edge 漏洞链及 BeyondTrust 文件上传至远程代码执行问题。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/gz5wepydgx19541hqwvty4syk">Cisco ASA 与 FTD 远程访问 SSL VPN 隧道 DoS 漏洞 CVE-2026-76418 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/o4jhgucdw0y08zpd9xy9goxcn">Linux 内核 CVE-2026-98432 可导致 MPTCP 服务器远程 root 提权</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jtfc7xy2x7a2pqxrr0ivv2g1k">CISA确认攻击者正在利用Brotli漏洞CVE-2026-111497</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/obhfumhh687s8ss7ottgn00g5">CISA 警告 Linux 内核 Fragnesia 漏洞 CVE-2026-46300 已与 PHP2Shell 在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ae96k4vyaf9n7mzfdlf9k8j1e">TeamViewer 远程支持漏洞 CVE-2026-111585 可在技术支持人员电脑上执行代码</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xpytoqbtuulo3rw9z3h510qhs">Mem0 会话范围键分隔符碰撞漏洞可导致跨租户对话泄露</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ndo10izcxlkye6sdeutgereno">Rust zip 9.0.0-pre3 暴露 Zip Slip 任意文件写入漏洞</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vsfs000d1boyjr3m5ahd2iza2">Tailscale 修复 Tailworm SSH 漏洞，v1.104.4 已发布</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/utwi4trkcm6q7c7e0bnt63sw8">Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/n8ley102n83kjrh7ne1s1q0wy">Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zwh7qiot8b8294xdoeg7i356t">GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vjdhd6f9hgfqlc9p5znn3m95n">Cursor Marketplace 上架的 Claude Code 扩展被植入持久化 SSH 后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kap6lzk1o51rm638fm4tiscnh">攻击者尝试利用 Alpine Linux GitLab 的 CVE-2026-97229 漏洞，CVSS 10.0</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vuvau9rjn8ik414g6xpi91tx9">攻击者利用 Microsoft Teams 冒充 IT 支持，部署 GoGRPC 后门与 Chaos 勒索软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m8vt0mfprflyha4qd0f1jbnwd">VAPOR PANDA 使用 ARTEX 与 DeepSeek 并行入侵全球 200 多家组织</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/gu6ue1ilx7hnlwxcatqdphg4v">自称 Department of Peace 的黑客泄露逾 41,000 名 DHS 员工记录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/f1ouf60ewvurduuj73co4r1ov">LodaRAT 以伪造美国法院通知钓鱼，已针对逾 100,000 家企业</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kh5zbp42tkmy1pgddvyma6sb0">zkLink 遭攻击损失约 78.3 万美元，Arbitrator 合约验证逻辑被绕过</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ihl9k919cuk2zeu8m5uh5sr73">Polymarket 因第三方服务遭入侵暂停交易，约 $2.5M 加密资产被追踪</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/r33vqb4ahc08c2y4ozgccut2g">疑似中国关联攻击者利用 PHP2Shell 在 25 台服务器取得 root 权限并渗透 Active Directory</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wsntmow6j7f4emvphlkjlx4fh">独立研究员在 Gitee 公开仓库发现 26,400 个仍有效的云与 AI 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lpx0fpf5dtulg95plg0vd0qsv">FBI 查封 Virtualine 防弹托管域名及其犯罪论坛</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/mnxtybnzit795ejslskcd1v8b">Oracle E-Business Suite CVE-2026-101767 补丁后遭探测</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ashq9zaym8iojmnulqhy7xxeb">Cloudflare披露eMudhra弱密钥证书利用迹象与访客补丁进度</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bd7wabp95rfnfjrzp7ji0kci5">TrendAI 指 Discover-Tech 通过数字广告跟踪 Starlink 用户</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/nvjhxml6qmgj1n5fihl71npjw">php2shell 技术分析：PHP 两个 RCE 生命周期漏洞 CVE-2026-109618 与 CVE-2026-109619</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xn04uir3ppltopryw25ryri8a">Orange Tsai 披露 Microsoft Edge 纯逻辑漏洞全链，实现沙箱逃逸与 ACE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/n7t33b4zzyzxy6gb2u55dbm5s">cert-manager 直接创建 Challenge 可绕过 DNS01 策略并泄露 acme-dns 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/els1gzklnlhxhh0k15ljle1lp">Rapid7 分析 BeyondTrust Remote Support 未认证文件上传至 RCE 漏洞 CVE-2026-102764</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/s5egftxgd4pzsuybtmy9c5i8d">Forever Security 披露 Cursor、Copilot、Codex、VS Code 与 Claude Desktop 内置浏览器漏洞</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/monthly/2026-10">https://supertoom.github.io/dailyinfo/monthly/2026-10</a></p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 02:30:32 GMT</pubDate>
+      <guid isPermaLink="false">monthly-2026-10</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+  </channel>
+</rss>

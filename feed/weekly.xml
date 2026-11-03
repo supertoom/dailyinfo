@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DailyInfo 周报</title>
+    <link>https://supertoom.github.io/dailyinfo/weekly</link>
+    <description>DailyInfo 每周一 10:00（北京时间）发布的周报：从上周每天的日报里选出的安全要闻，按栏目分好，附总述；保留最近 12 期。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://supertoom.github.io/dailyinfo/feed/weekly.xml" rel="self" type="application/rss+xml" />
+    <ttl>180</ttl>
+    <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
+    <item>
+      <title><![CDATA[DailyInfo 周报 · 2026-W44 — Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor]]></title>
+      <link>https://supertoom.github.io/dailyinfo/weekly/2026-W44</link>
+      <description><![CDATA[<p>Cisco ASA 与 FTD 漏洞已被利用，Linux 内核、Brotli 和 Fragnesia 也出现远程利用或提权，防守方持续推动修复与缓解。攻击者借云桌面、开发工具和协作平台扩大入侵，并转向 AI 编程助手与恶意链接实施代码执行。披露方面，PHP 漏洞链、Edge 沙箱逃逸和 ChatGPT 分享链接利用链展示了新的攻击路径。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/gz5wepydgx19541hqwvty4syk">Cisco ASA 与 FTD 远程访问 SSL VPN 隧道 DoS 漏洞 CVE-2026-76418 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/o4jhgucdw0y08zpd9xy9goxcn">Linux 内核 CVE-2026-98432 可导致 MPTCP 服务器远程 root 提权</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jtfc7xy2x7a2pqxrr0ivv2g1k">CISA确认攻击者正在利用Brotli漏洞CVE-2026-111497</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/obhfumhh687s8ss7ottgn00g5">CISA 警告 Linux 内核 Fragnesia 漏洞 CVE-2026-46300 已与 PHP2Shell 在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/midioamfhtgq777zsyrovhu36">Android CVE-2026-58882“短信死亡”漏洞分析与 PoC 复现</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/utwi4trkcm6q7c7e0bnt63sw8">Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/n8ley102n83kjrh7ne1s1q0wy">Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zwh7qiot8b8294xdoeg7i356t">GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vjdhd6f9hgfqlc9p5znn3m95n">Cursor Marketplace 上架的 Claude Code 扩展被植入持久化 SSH 后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kap6lzk1o51rm638fm4tiscnh">攻击者尝试利用 Alpine Linux GitLab 的 CVE-2026-97229 漏洞，CVSS 10.0</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vuvau9rjn8ik414g6xpi91tx9">攻击者利用 Microsoft Teams 冒充 IT 支持，部署 GoGRPC 后门与 Chaos 勒索软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/g1yjx90drqjyvf0az6cq04rgs">CNCERT 监测发现 VeilDHT 僵尸网络大范围感染 Linux 服务器与 IoT 设备</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m8vt0mfprflyha4qd0f1jbnwd">VAPOR PANDA 使用 ARTEX 与 DeepSeek 并行入侵全球 200 多家组织</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/gu6ue1ilx7hnlwxcatqdphg4v">自称 Department of Peace 的黑客泄露逾 41,000 名 DHS 员工记录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/f1ouf60ewvurduuj73co4r1ov">LodaRAT 以伪造美国法院通知钓鱼，已针对逾 100,000 家企业</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kh5zbp42tkmy1pgddvyma6sb0">zkLink 遭攻击损失约 78.3 万美元，Arbitrator 合约验证逻辑被绕过</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/nvjhxml6qmgj1n5fihl71npjw">php2shell 技术分析：PHP 两个 RCE 生命周期漏洞 CVE-2026-109618 与 CVE-2026-109619</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xn04uir3ppltopryw25ryri8a">Orange Tsai 披露 Microsoft Edge 纯逻辑漏洞全链，实现沙箱逃逸与 ACE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/dovg5xscowbmox2u6l6m2s1lp">Parameter 揭示恶意 ChatGPT 分享链接代码执行漏洞利用链</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/s5egftxgd4pzsuybtmy9c5i8d">Forever Security 披露 Cursor、Copilot、Codex、VS Code 与 Claude Desktop 内置浏览器漏洞</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/weekly/2026-W44">https://supertoom.github.io/dailyinfo/weekly/2026-W44</a></p>]]></description>
+      <pubDate>Mon, 02 Nov 2026 02:00:33 GMT</pubDate>
+      <guid isPermaLink="false">weekly-2026-W44</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+  </channel>
+</rss>
