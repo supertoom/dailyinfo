@@ -9,6 +9,96 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-09 — 今日安静，无重要安全事件]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-09</link>
+      <description><![CDATA[<p>北京时间 11 月 8 日 08:00 至 11 月 9 日 08:00，没有新的安全要闻。</p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-09">https://supertoom.github.io/dailyinfo/daily/2026-11-09</a></p>]]></description>
+      <pubDate>Mon, 09 Nov 2026 00:00:13 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-09</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-08 — SonicWall SSL-VPN SAML 认证绕过漏洞 CVE-2026-19868 已被利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-08</link>
+      <description><![CDATA[<p>SonicWall SSL-VPN 的 SAML 认证绕过漏洞 CVE-2026-19868 已被用于攻击，攻击者持有另一种认证方式的有效凭据后，可绕过 SAML 认证控制，包括 SAML 强制启用的 MFA。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xr0vtk5687xc31yatwi6m3z0m">SonicWall SSL-VPN SAML 认证绕过漏洞 CVE-2026-19868 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/j353lmgbdt1vzxfl5am6xcscg">OpenSSH/musl密码认证绕过漏洞CVE-2026-123158已复现，受影响版本为7.3p1至10.6p2</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/hk714ipariljekiun88mpsvd2">LXD 快照绕过受限项目限制导致 Incus 服务器任意命令执行</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/mrpepymif8ptdu6v6wcid81kx">LXD 镜像 URL 导入功能存在 SSRF，可探测内部网络</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/qt4a7nln856uan1eob526jcmp">QNAP称Plex2Shell漏洞链已被用于入侵NAS设备</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ucovakubvkebsauqv049n97vi">Hunt.io 披露 ARTEX 攻击韩国 7 家金融机构数据泄露</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/cd10ku2jyo2zjhf6tnrhavx0z">Storm-3358 扩大利用 ARTEX 攻击东南亚及全球金融机构</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/lumlbzum3afm0fmdtcxu7t21q">Claude Code 将批准命令中的密码与密钥明文保存在项目文件，GitHub 发现 1,122 份公开副本</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-08">https://supertoom.github.io/dailyinfo/daily/2026-11-08</a></p>]]></description>
+      <pubDate>Sun, 08 Nov 2026 00:00:42 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-08</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-07 — OpenSSH/musl 密码认证绕过漏洞 QVD-2026-104595 已复现，CVSS 3.1 9.8]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-07</link>
+      <description><![CDATA[<p>OpenSSH/musl 密码认证绕过漏洞 QVD-2026-104595 已由奇安信 CERT 复现，CVSS 3.1 分数 9.8，评级为高危，影响量为千万级。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/f4tnsgkfdc79pquzklp0yrld2">OpenSSH/musl 密码认证绕过漏洞 QVD-2026-104595 已复现，CVSS 3.1 9.8</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/yfynxgt4s7w5imgek8q7a3gou">OpenSSH CVE-2026-123158 在披露数小时后遭到在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/g3kybtog970w0ggudmqpekqgz">LXD DevLXD 跨客体卷劫持漏洞分析</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/nukg9pzziesh0qo3zavylwrii">深信服披露针对国内第三方支付机构的定向攻击工具包</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/oo2yl4ebtd0m7hsffm7bci8np">Microsoft 披露攻击者利用 ARTEX 批量搜寻 GitHub 密钥并入侵 Azure</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/br1u99o6q1e93alvm3z1l3hl8">奇安信XLab披露寄生于Control Web Panel的cwpdoor零检出被动后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/rhcx8rds9x59fqi7rszz9fkz3">奇安信披露多款国产小型软件更新供应链投毒，定向云南省</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/agu57q9t9y13ntaw8y37g69pn">Chainalysis 遭 Agentic 攻击暴露全部用户凭据并关闭关键服务</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xcrtnnrnl1mz0bdw0wcmtusml">Barracuda Email Security Gateway 预认证远程 root RCE 利用链分析</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/py14y51e02vvrgbaztxtoq5pv">恶意浏览器扩展可借 Claude Dispatch 在用户电脑上执行命令</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/t1172o1qgorlmta0t3orhyq9l">OpenAI 发布 GPT-6 Cyber，发现 81 个未知 Firefox 高危漏洞</a></li></ul>
+<p><strong>蓝队与运营</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/mo4ufcrrjyh11r4wcnzuelct4">Insignary 发布 insignary-chk，检测 PHP2Shell 与 Node2Shell 暴露</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-07">https://supertoom.github.io/dailyinfo/daily/2026-11-07</a></p>]]></description>
+      <pubDate>Sat, 07 Nov 2026 00:00:26 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-07</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-06 — OpenAI 使用 AI Agent 扫描 Linux 内核并发现 948 个本地提权漏洞]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-06</link>
+      <description><![CDATA[<p>OpenAI 使用尚未发布的网络安全模型和 AI Agent 流水线扫描 Linux 内核，在 10 天内发现、复现并利用 948 个独立本地提权漏洞，总花费 120万美元。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/ytzdcdfugpd0nnciko21ou59j">Synology DSM 身份认证绕过漏洞 CVE-2026-13639 已复现并被勒索软件利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/sisdj0yaov9roze0fz616pp5i">Bitdefender 披露 Android GhostMap 漏洞，重启循环仅能通过恢复出厂设置解除</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/zty74ssg50q1mndnvfzwhfqfu">Crédit Mutuel Arkéa 遭复杂网络攻击，约 1.33 亿美元疑遭窃取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/iio02tqqqxbdf0qt1kdr6gjku">Load/Mine 利用 AI 模型仓库植入 GPU 挖矿后门，两波波及 31 个仓库</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/t64dzyrhwjxq4w3f17eo3t1l7">欧洲多国超市冷柜遭远程操控加热，Danfoss 旧固件漏洞被用于攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/dxhu6zoooyev95kp3k297dewf">CrowdStrike 披露攻击者利用公开 PoC 快速武器化漏洞</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wfjd5fodjznr45vhjx8weohr1">CERT-In 披露 Crafty Falcon 利用 ARTEX 等 AI 攻击工具攻击印度 BFSI，仿冒 ARTEX 镜像后门暴露 62 个控制台</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xkdscbx30se27tz9zmlkauf28">Cathedral使用AI Agent在12小时内渗透Anthropic内部Slack及敏感系统</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a55xwfne2cfqa93ovn0mflfxz">攻击者借 GitHub 分发仿冒 ChatGPT 与 Claude 应用，Yoba 恶意软件借 DLL sideloading 安装挖矿程序</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/k9m1aemrbm2gwfwjok8ooel6i">UNM Health 遭遇网络安全事件，关闭急诊资源并转移患者</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/aeb809z3vyorh7x5j0588tlw3">Check Point Research 揭示 ChatGPT Lockdown Mode 绕过漏洞</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wlm5bqo3onughth3q45scdo59">OpenAI 使用 AI Agent 扫描 Linux 内核并发现 948 个本地提权漏洞</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-06">https://supertoom.github.io/dailyinfo/daily/2026-11-06</a></p>]]></description>
+      <pubDate>Fri, 06 Nov 2026 00:00:10 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-06</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-05 — APT29 关联黑客劫持 Plerdy SEO Tracker 投递 iOS 与 Android 利用链]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-05</link>
+      <description><![CDATA[<p>Sekoia 称，俄罗斯关联威胁组织 APT29 借被入侵网站、仿冒域名和乌克兰 Plerdy SEO Tracker 供应链攻击开展名为 Poisoned Source 的水坑活动，向 iOS 与 Android 用户投递 N-day 利用链并窃取浏览器 Cookie、Wi-Fi 密码及移动设备数据。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/p0n6ok2brl2a0nzaveu5s7rhg">WordPress Core CVE-2026-119977 竞争条件 RCE 漏洞已复现并发现利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bsx5y5ksndfw7vcppci6fz4rt">Arc 的 DuckDB I/O 别名可绕过数据库 RBAC</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/p9mnajvale4nc1xu4o2dinr5e">CISA 将 WordPress 远程代码执行漏洞 CVE-2026-119977 加入 KEV 目录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ybam9buweaqo8o2mqaa7o5mm1">Android CVE-2026-58868 存在在野利用，Google 已发布修复</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nuymmb6dnd20wlrfxamgfgjgq">Cisco 披露 Node.js 与 Brotli 漏洞影响通告，涉及 CVE-2026-111497 等4项</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/kodarv143bm6tdtz8vpt6lz9c">APT29 关联黑客劫持 Plerdy SEO Tracker 投递 iOS 与 Android 利用链</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vfjzof1znh41318lorrvydjkt">Mandiant 披露大模型劫持黑产，企业单日损失或超 10 万美元</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bllxbimaqy07wxo071cy443js">SlippyNunchucks 劫持搜狗输入法 DNS 请求部署 DarkVigil 后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lwcixiqc5m9dfywyen2fk41o2">第三方运维私开 RDP 端口致企业遭 LockBit 勒索与内网 SMB 爆破</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/s26g6gohs13ucgf78y89lf009">法国国家血液服务机构因供应商遭网络攻击而中断 3 处冷库温控</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m3f4nnw16zmvoc10ccus1uoni">Operation CloudFire 利用 Google Calendar 邀请劫持会话并绕过 MFA</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/akw79leby5nbvemb6mqo9vtdk">某国产 ERP 未授权任意文件上传 0day 被用于 Weax 勒索，3.8 万资产暴露</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-05">https://supertoom.github.io/dailyinfo/daily/2026-11-05</a></p>]]></description>
+      <pubDate>Thu, 05 Nov 2026 00:00:20 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-05</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-04 — Cisco Secure Email Gateway SQL 注入漏洞 CVE-2026-76461 已遭在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-04</link>
+      <description><![CDATA[<p>Cisco Secure Email Gateway 的 SQL 注入漏洞 CVE-2026-76461 已被在野利用，未经身份验证的远程攻击者可通过发送含恶意 SQL 语句的邮件，在底层操作系统以 root 权限执行命令。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/pswh7gi302afiq1veacas1zfo">Cisco Secure Email Gateway SQL 注入漏洞 CVE-2026-76461 已遭在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/p3l7vk5l199h68wksyf6etvvm">Linux Kernel IPv4 TCP 释放后重用漏洞 CVE-2026-98432 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ungyq5x28j803aw7gd2hmsng3">Chrome 157 稳定版发布，Windows、Mac 和 Linux 收录 213 项安全修复</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/bwq6gssfuodld3bto7vao4207">cPGuard 5.88.12 至 5.88.19 更新通道被劫持，Linux 服务器遭后门植入</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/g31iatxcau1k6dwknxiqgohrr">攻击者利用 Siemens SIMATIC IoT2050 漏洞 CVE-2026-58115 植入远程命令后门</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bx00h884nk3p2ej5xmi6wb6v1">Vapor Panda 等组织利用 ARTEX 与 CyberStrikeAI 扩大 AI 驱动攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ggy3le7y33yjx5i60bxd14abb">Gorbag APT 组织以自删除恶意软件攻击乌克兰法院和市议会</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ry1s8823u73qzqqdpklkue81e">WorkOS 称攻击者利用 ARTEX AI 入侵内部销售应用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lybkf1c5asn88rjr54wj2w33h">Microsoft 披露木马化安装程序下载活动及三类变现载荷</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/mi1ggezik5lbguyepuij62h71">SentinelLabs 评估欧洲零售制冷系统攻击，数百家法国门店受影响</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ijlvo02lj2zxe7uihyf0owngi">Google 联合行业伙伴拆解 XCPE 僵尸网络，逾 130 万台 Android TV 机顶盒被用于代理</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/px9wc0oazjpbi9yc3x0ixa2mf">Split-View PDF 研究揭示文档大模型的隐藏提取差异</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-04">https://supertoom.github.io/dailyinfo/daily/2026-11-04</a></p>]]></description>
+      <pubDate>Wed, 04 Nov 2026 00:00:19 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-04</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-03 — Google 联合处置 XCPE 僵尸网络，Videostrong 预装后门感染逾 130 万台机顶盒]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-03</link>
       <description><![CDATA[<p>Google 与行业伙伴已拆除 XCPE 后门相关控制基础设施，该后门将超过 1.3 million 台机顶盒及其他 Android IoT 设备纳入僵尸网络。</p>
