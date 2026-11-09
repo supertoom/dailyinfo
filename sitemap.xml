@@ -132,6 +132,11 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://supertoom.github.io/dailyinfo/weekly/2026-W45</loc>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://supertoom.github.io/dailyinfo/weekly/2026-W44</loc>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -605,6 +610,11 @@
 <loc>https://supertoom.github.io/dailyinfo/topics/blue-team/page/2</loc>
 <changefreq>weekly</changefreq>
 <priority>0.3</priority>
+</url>
+<url>
+<loc>https://supertoom.github.io/dailyinfo/story/ff0f3065-d7f0-49f9-a282-65208bee38ad</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
 </url>
 <url>
 <loc>https://supertoom.github.io/dailyinfo/story/f8957a3b-e919-45d8-9ba9-ded317ae377b</loc>
@@ -3098,11 +3108,6 @@
 </url>
 <url>
 <loc>https://supertoom.github.io/dailyinfo/story/80eaff29-7944-4556-b6e8-d76c8c7a9440</loc>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://supertoom.github.io/dailyinfo/story/162a2f0b-f1e1-4a92-ac49-1bac13298ffd</loc>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

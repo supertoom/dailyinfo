@@ -9,6 +9,23 @@
     <ttl>180</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 周报 · 2026-W45 — APT29 关联黑客劫持 Plerdy SEO Tracker 投递 iOS 与 Android 利用链]]></title>
+      <link>https://supertoom.github.io/dailyinfo/weekly/2026-W45</link>
+      <description><![CDATA[<p>本周多条高危漏洞已遭在野利用，Synology DSM 身份认证绕过、Cisco Secure Email Gateway 注入和 OpenSSH 漏洞均被攻击者用于入侵，Ivanti Connect Secure 三个零日漏洞被链式利用。WordPress Core 竞争条件远程代码执行漏洞和 Windows Update Stack 本地权限提升漏洞也出现真实利用。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/f4tnsgkfdc79pquzklp0yrld2">OpenSSH/musl 密码认证绕过漏洞 QVD-2026-104595 已复现，CVSS 3.1 9.8</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ytzdcdfugpd0nnciko21ou59j">Synology DSM 身份认证绕过漏洞 CVE-2026-13639 已复现并被勒索软件利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tqj4dxtikwan2dwzgf1hpjvys">Ivanti Connect Secure 三个零日漏洞已被链式利用，CVE-2026-111357 与 CVE-2026-118527 纳入 KEV</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/p0n6ok2brl2a0nzaveu5s7rhg">WordPress Core CVE-2026-119977 竞争条件 RCE 漏洞已复现并发现利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zn3wl1ipk6y4uimbmwjbo86fy">Microsoft Windows Update Stack 本地权限提升漏洞 CVE-2026-81963 已复现并发现在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/p3l7vk5l199h68wksyf6etvvm">Linux Kernel IPv4 TCP 释放后重用漏洞 CVE-2026-98432 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/pswh7gi302afiq1veacas1zfo">Cisco Secure Email Gateway SQL 注入漏洞 CVE-2026-76461 已遭在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/yfynxgt4s7w5imgek8q7a3gou">OpenSSH CVE-2026-123158 在披露数小时后遭到在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/p9mnajvale4nc1xu4o2dinr5e">CISA 将 WordPress 远程代码执行漏洞 CVE-2026-119977 加入 KEV 目录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xr0vtk5687xc31yatwi6m3z0m">SonicWall SSL-VPN SAML 认证绕过漏洞 CVE-2026-19868 已被利用</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/kodarv143bm6tdtz8vpt6lz9c">APT29 关联黑客劫持 Plerdy SEO Tracker 投递 iOS 与 Android 利用链</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wbjzunigapakv96vd54t9g53c">Google 联合处置 XCPE 僵尸网络，Videostrong 预装后门感染逾 130 万台机顶盒</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/uu0z6mo1muhhj4bo1sst643w9">FBI 将 Binance 63 亿美元加密资产窃取案归因于朝鲜 TraderTraitor</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/oo2yl4ebtd0m7hsffm7bci8np">Microsoft 披露攻击者利用 ARTEX 批量搜寻 GitHub 密钥并入侵 Azure</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/c8c3sczng53jdb0j9x5vqc0ry">欧洲多国逾115家超市制冷系统遭攻击，门店被迫处置变质商品</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bwq6gssfuodld3bto7vao4207">cPGuard 5.88.12 至 5.88.19 更新通道被劫持，Linux 服务器遭后门植入</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/iio02tqqqxbdf0qt1kdr6gjku">Load/Mine 利用 AI 模型仓库植入 GPU 挖矿后门，两波波及 31 个仓库</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nukg9pzziesh0qo3zavylwrii">深信服披露针对国内第三方支付机构的定向攻击工具包</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/akw79leby5nbvemb6mqo9vtdk">某国产 ERP 未授权任意文件上传 0day 被用于 Weax 勒索，3.8 万资产暴露</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wlm5bqo3onughth3q45scdo59">OpenAI 使用 AI Agent 扫描 Linux 内核并发现 948 个本地提权漏洞</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/weekly/2026-W45">https://supertoom.github.io/dailyinfo/weekly/2026-W45</a></p>]]></description>
+      <pubDate>Mon, 09 Nov 2026 02:00:17 GMT</pubDate>
+      <guid isPermaLink="false">weekly-2026-W45</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 周报 · 2026-W44 — Binance 遭遇约 63 亿美元加密货币盗窃，TRM 归因 TraderTraitor]]></title>
       <link>https://supertoom.github.io/dailyinfo/weekly/2026-W44</link>
       <description><![CDATA[<p>Cisco ASA 与 FTD 漏洞已被利用，Linux 内核、Brotli 和 Fragnesia 也出现远程利用或提权，防守方持续推动修复与缓解。攻击者借云桌面、开发工具和协作平台扩大入侵，并转向 AI 编程助手与恶意链接实施代码执行。披露方面，PHP 漏洞链、Edge 沙箱逃逸和 ChatGPT 分享链接利用链展示了新的攻击路径。</p>
