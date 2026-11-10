@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-10 — GPUStack v2.2.0 之前认证绕过漏洞已被在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-10</link>
+      <description><![CDATA[<p>GPUStack v2.2.0 之前存在认证绕过，默认配置下可将请求来源判定为 127.0.0.1 并授予未认证管理员权限；同机反向代理会暴露 TCP peer，伪造 X-GPUStack-Real-IP: 127.0.0.1 也可触发该分支。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/j3zs99gaytjzbcm7piuk8be0b">GPUStack v2.2.0 之前认证绕过漏洞已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ke43qtftrmo1i5qcbhrr32q9r">Chrome 157 稳定版更新修复 9 项安全漏洞，CVE-2026-125350 已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/fllexxsbebzht0ofar3sm61ku">Windows Error Reporting 参数注入权限提升漏洞 CVE-2026-97798 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/e5jls9lti326n3d2mnpnvazo7">Telepresence Traffic Manager gRPC 无认证漏洞可跨命名空间窃取环境变量</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zghpc4nj0iecoj0z1g1co19fw">Apache OFBiz 未认证远程代码执行漏洞 CVE-2026-83542 已复现</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/jpccsfbubyqtcmxrbt833yyzz">欧洲制冷系统攻击复盘：多国零售门店及法国血液冷库受影响</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jz9grqtqb23abgdgaadfggi4v">Ahold Delhaize 上个月网络攻击预计造成第四季度销售额减少2亿至2.5亿欧元</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/iu292yqpietfeotxyzzz5vwtz">ARTEX AI 攻击代理在三个月内被用于凭据窃取、数据窃取和间谍活动</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/rqkyyu2r18o90oudsck3f8pkv">恶意 GitHub Actions workflow 入侵数万仓库并窃取凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/rgf6ztew8hr9hfi7xzfc08b7i">法国将超市冷藏设备攻击归因于 Iran IRGC</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tt70s7pz8emjzy4j5exngbu4d">攻击者滥用 Qubole 的 AWS 信任关系，窃取多个客户账户数据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ezznfy9wxg5ulkg1c77tukvqt">多国机构警告工业制冷与冷链监控控制器遭攻击，可致火灾和库存损失</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-10">https://supertoom.github.io/dailyinfo/daily/2026-11-10</a></p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 00:00:14 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-10</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-09 — 今日安静，无重要安全事件]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-09</link>
       <description><![CDATA[<p>北京时间 11 月 8 日 08:00 至 11 月 9 日 08:00，没有新的安全要闻。</p>
