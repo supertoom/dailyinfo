@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-11 — Chrome XML 双重释放漏洞 CVE-2026-125350 已被在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-11</link>
+      <description><![CDATA[<p>Google Chrome 内置 libxslt 的 XSLT 处理链路存在双重释放（UAF）漏洞 CVE-2026-125350，CVSS 3.1 为 8.8，已被在野利用。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/z7r3ob6z5zlzhu12s71ktd4th">Chrome XML 双重释放漏洞 CVE-2026-125350 已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/x7edhu1rfhikbjr5w193xldog">Vates VMS 披露 Xen Orchestra 认证绕过漏洞 VSA-2026-062 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jugiebheg5ptuxhjuq1jxk8da">Mongoose 原型继承属性写入漏洞分析与 PoC</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/sif366thhfeqdn24sve2qcy60">Turla 利用 Microsoft Exchange 服务器部署 Cereal 后门窃取邮件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vf2fadfkovuwc9eyk4jilfa6l">CNCERT披露“银狐”木马“金钩（G03）”团伙攻击同花顺仿冒下载站</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/t9vxip29f8i1pdp144dvxpjbx">XCPE 后门分析：130 万台 Android 设备被预装为可出租代理与广告节点</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/dutfochl5zqbpgtoxwe32cj7v">France 指控 Iran 武装组织攻击约 700 家超市制冷系统</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ls7fmpyylskxaymnr22grsi0u">Railway遭入侵，攻击者盗取凭据并产生约74万美元AI欺诈用量</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/oclbliy8sva9iub474xdrfw3d">NEAR AI 遭 SGLang RCE 利用，18 个 Agent 与约 100 名用户数据被窃</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/d5ja2gdozlvbokoh76xzu4ofy">Fireworks AI 披露第三方云提供商被攻破后发生的新数据泄露</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/zqhb8fqggr4jdd60g720bgfej">forcequitOS 公开 iOS 沙箱逃逸 PoC worse_query，影响 iOS 26.7.1、27.0.1 和 27.2</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/t38yyi1raz8ik9fsh1ryv55gz">node-opcua 命名空间 RBAC 失败开放导致匿名写入与调用绕过</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-11">https://supertoom.github.io/dailyinfo/daily/2026-11-11</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 00:00:31 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-11</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-10 — GPUStack v2.2.0 之前认证绕过漏洞已被在野利用]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-10</link>
       <description><![CDATA[<p>GPUStack v2.2.0 之前存在认证绕过，默认配置下可将请求来源判定为 127.0.0.1 并授予未认证管理员权限；同机反向代理会暴露 TCP peer，伪造 X-GPUStack-Real-IP: 127.0.0.1 也可触发该分支。</p>
