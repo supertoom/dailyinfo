@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-13 — 攻击者利用 4,837 个劫持 GitHub 账户在 1,806+ 个仓库运行 CI 密钥窃取器]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-13</link>
+      <description><![CDATA[<p>攻击者使用从周二起窃取的 4,837 个 GitHub 账户凭据，通过标题为 docs: dependency audit notes 的测试 Pull Request 检查写权限。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/itghrl24hjsfp7ov68trhdxf5">Apache HTTP/2 模块远程代码执行漏洞 CVE-2026-119618 影响 2.4.55 至 2.4.70，2.4.71 已修复</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/j0h728hxubmy1jz17rm7oa7je">微步复现 7-Zip LZX 解码器远程代码执行漏洞 CVE-2026-125742</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lpork1fvur2f6uit9eo593pgd">Pillow libtiff 编码器堆缓冲区溢出分析与修复方案</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/azhhxogo2ze95f84syty9k82z">Windows CLFS 漏洞 SignDrop 可借助特权进程获取 SYSTEM 权限</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ppwfb9ug92t2jde5yzacrazq5">Siemens 多款楼宇自动化与能源产品受 php2shell 漏洞影响</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tthpdpwhuywrbj6runx9i9ryn">PostgreSQL 18.7 等版本修复 52 个漏洞并终止 PostgreSQL 14 支持</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/m2uopbxw2xg55pf3fx6t03uwr">攻击者利用 4,837 个劫持 GitHub 账户在 1,806+ 个仓库运行 CI 密钥窃取器</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/pwalod9qlwcnq38r5ae1i2ani">攻击者利用 Cairn 自主攻击半导体、国防及公民社会机构</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/qd7xgce2grpxnrdp2rggpggbf">Europol 联合九国查封 Gootloader、CastleRAT 和 StealC 基础设施，收回逾 600 万组被盗凭据</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/ychw6bek6sbholn90ux3rcvl3">Pillow TIFF 与 EXIF 解析存在重叠标签数据内存耗尽漏洞</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1">happy-dom 服务端 SSRF 漏洞 CVE-2026-118660 全链路分析与复现</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/edurf4tg7pqutthgj06kgkobl">Microsoft 研究后训练供应链攻击如何通过数据集与模型投毒劫持编码 Agent</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-13">https://supertoom.github.io/dailyinfo/daily/2026-11-13</a></p>]]></description>
+      <pubDate>Fri, 13 Nov 2026 00:00:19 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-13</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-12 — ConnectWise 调查针对 MSP 的 ScreenConnect 恶意软件活动，47 家组织受影响]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-12</link>
       <description><![CDATA[<p>ConnectWise 正在调查一场针对托管服务提供商（MSP）的活跃恶意软件活动，攻击者利用遭入侵的 ScreenConnect 环境，通过 Run Command 功能向客户设备部署非法远程客户端。</p>

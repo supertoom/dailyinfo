@@ -9,6 +9,358 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[Pillow TIFF 与 EXIF 解析存在重叠标签数据内存耗尽漏洞]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ychw6bek6sbholn90ux3rcvl3</link>
+      <description><![CDATA[<p>Pillow 的 `ImageFileDirectory_v2.load()` 存在内存耗尽漏洞：恶意 TIFF、PNG、JPEG、WebP 或 MPO 文件可通过重叠标签数据，使内存占用按“条目数 × 文件大小”增长。</p>
+<p>🔗 <a href="https://github.com/advisories/GHSA-wqgw-9xfh-qf2g">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ychw6bek6sbholn90ux3rcvl3">https://supertoom.github.io/dailyinfo/items/ychw6bek6sbholn90ux3rcvl3</a></p>]]></description>
+      <category>细节披露</category>
+      <pubDate>Thu, 12 Nov 2026 23:35:39 GMT</pubDate>
+      <guid isPermaLink="false">ychw6bek6sbholn90ux3rcvl3</guid>
+      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[Pillow libtiff 编码器堆缓冲区溢出分析与修复方案]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/lpork1fvur2f6uit9eo593pgd</link>
+      <description><![CDATA[<p>Pillow 通过 libtiff 保存 TIFF 时，攻击者控制的 EXIF、tiffinfo 或源文件 IFD 几何标签可覆盖实际图像尺寸，导致 libtiff 按标签尺寸读取或写入行缓冲区。</p>
+<p>🔗 <a href="https://github.com/advisories/GHSA-xcvg-w56q-r89m">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/lpork1fvur2f6uit9eo593pgd">https://supertoom.github.io/dailyinfo/items/lpork1fvur2f6uit9eo593pgd</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 23:34:43 GMT</pubDate>
+      <guid isPermaLink="false">lpork1fvur2f6uit9eo593pgd</guid>
+      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[PostgreSQL 18.7 等版本修复 52 个漏洞并终止 PostgreSQL 14 支持]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/tthpdpwhuywrbj6runx9i9ryn</link>
+      <description><![CDATA[<p>PostgreSQL Global Development Group 于 November 12 发布 PostgreSQL 18.7、17.12、16.16、15.20 和 14.25，修复 52 个安全漏洞及 140 多个其他缺陷，其中 32 个 CVE 的 CVSS 分为 8.8。</p>
+<p>🔗 <a href="https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/tthpdpwhuywrbj6runx9i9ryn">https://supertoom.github.io/dailyinfo/items/tthpdpwhuywrbj6runx9i9ryn</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 23:05:33 GMT</pubDate>
+      <guid isPermaLink="false">tthpdpwhuywrbj6runx9i9ryn</guid>
+      <author>noreply@192.168.2.208 (Help Net Security)</author>
+    </item>
+    <item>
+      <title><![CDATA[SCKit 蠕虫式恶意软件借 ScreenConnect 攻击 MSP，尝试反向感染技术人员]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/h2occksxu7q3tzi57634syb7r</link>
+      <description><![CDATA[<p>SCKit 是由 16 个脚本和组件组成的蠕虫式工具包，目标是在近期针对托管服务提供商（MSP）的 ScreenConnect 攻击中建立持久访问并横向扩散。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/h2occksxu7q3tzi57634syb7r">https://supertoom.github.io/dailyinfo/items/h2occksxu7q3tzi57634syb7r</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 22:53:10 GMT</pubDate>
+      <guid isPermaLink="false">h2occksxu7q3tzi57634syb7r</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[N-able N-central 4EverAble2Shell 零日漏洞已被利用，21 台服务器失陷]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/nfe40jld0azdyvkuu4pkr1p7u</link>
+      <description><![CDATA[<p>攻击者已利用 N-able N-central 的 4EverAble2Shell 漏洞攻陷至少 21 台生产服务器，其中 19 台运行 2026.4.1.26。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nfe40jld0azdyvkuu4pkr1p7u">https://supertoom.github.io/dailyinfo/items/nfe40jld0azdyvkuu4pkr1p7u</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 19:51:16 GMT</pubDate>
+      <guid isPermaLink="false">nfe40jld0azdyvkuu4pkr1p7u</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[SignDrop PoC 利用 Windows CLFS 认证机制实现 SYSTEM 权限提升]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/vg18mgfk9qqhb8fj6zco29xou</link>
+      <description><![CDATA[<p>研究者 MSNightmare 公开 SignDrop PoC，利用 Windows Common Log File System 驱动创建 .cnpf 伴生文件时的路径重定向，使标准用户获得可写的 SYSTEM 文件并可链式启动 SYSTEM shell。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/vg18mgfk9qqhb8fj6zco29xou">https://supertoom.github.io/dailyinfo/items/vg18mgfk9qqhb8fj6zco29xou</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 17:50:27 GMT</pubDate>
+      <guid isPermaLink="false">vg18mgfk9qqhb8fj6zco29xou</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft 研究后训练供应链攻击如何通过数据集与模型投毒劫持编码 Agent]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/edurf4tg7pqutthgj06kgkobl</link>
+      <description><![CDATA[<p>Microsoft Defender Research 与 Microsoft AI Red Team 发现，编码 Agent 可被数据集投毒或恶意模型检查点植入后门，通过普通用户请求、文件名、代码注释或工具结果触发危险工具调用。</p>
+<p>🔗 <a href="https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/edurf4tg7pqutthgj06kgkobl">https://supertoom.github.io/dailyinfo/items/edurf4tg7pqutthgj06kgkobl</a></p>]]></description>
+      <category>AI 安全</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">edurf4tg7pqutthgj06kgkobl</guid>
+      <author>noreply@192.168.2.208 (Microsoft Security Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Red Hat Quay 严重漏洞 CVE-2026-123710 和 CVE-2026-110697 可读取及覆盖私有镜像]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/m65kuksej3ixs6woqeeqh6iqf</link>
+      <description><![CDATA[<p>Red Hat Quay 的 CVE-2026-123710（CVSS 9.8）和 CVE-2026-110697（CVSS 9.9）可分别借助信任密钥和 robot account 令牌枚举读取、推送或覆盖私有镜像，影响 Quay 3、Quay 5 全部版本及 8 个 Quay 3 分支的修复版本。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/m65kuksej3ixs6woqeeqh6iqf">https://supertoom.github.io/dailyinfo/items/m65kuksej3ixs6woqeeqh6iqf</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 16:27:01 GMT</pubDate>
+      <guid isPermaLink="false">m65kuksej3ixs6woqeeqh6iqf</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Windows CLFS 漏洞 SignDrop 可借助特权进程获取 SYSTEM 权限]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/azhhxogo2ze95f84syty9k82z</link>
+      <description><![CDATA[<p>安全研究员 Abdelhamid Naceri 公开了 Windows CLFS 漏洞 SignDrop 的 PoC，可诱导 Windows Defender 等特权进程创建认证文件并借此获取 SYSTEM 权限。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/azhhxogo2ze95f84syty9k82z">https://supertoom.github.io/dailyinfo/items/azhhxogo2ze95f84syty9k82z</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="false">azhhxogo2ze95f84syty9k82z</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[Citrix 修复 NetScaler 与 Secure Access Client 的 12 个漏洞，含认证绕过]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/du1ke342yzyvzy72oam3q5c5w</link>
+      <description><![CDATA[<p>Citrix 修复 NetScaler ADC、NetScaler Gateway、NetScaler Console 及 Secure Access Client 的 12 个漏洞，其中 CVE-2026-120869 可让未认证攻击者绕过 NetScaler Console 认证控制，另有 Windows 与 Linux 客户端权限提升漏洞。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/du1ke342yzyvzy72oam3q5c5w">https://supertoom.github.io/dailyinfo/items/du1ke342yzyvzy72oam3q5c5w</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 15:38:49 GMT</pubDate>
+      <guid isPermaLink="false">du1ke342yzyvzy72oam3q5c5w</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[186 个仿冒 AI 域名投递 ClickFix、Net Guard 与搜索劫持扩展]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/eauhnt9j6z8y871dfnos01sf4</link>
+      <description><![CDATA[<p>Island 发现一项代号为 TypoPrompting 的攻击活动，利用 186 个仿冒 AI 域名覆盖 27 个品牌，以 ClickFix 诱饵、Net Guard 浏览器劫持恶意软件和搜索劫持扩展三条路径实施攻击。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/eauhnt9j6z8y871dfnos01sf4">https://supertoom.github.io/dailyinfo/items/eauhnt9j6z8y871dfnos01sf4</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 15:15:40 GMT</pubDate>
+      <guid isPermaLink="false">eauhnt9j6z8y871dfnos01sf4</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用 Cairn 自主攻击半导体、国防及公民社会机构]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/pwalod9qlwcnq38r5ae1i2ani</link>
+      <description><![CDATA[<p>Unit 42 披露，中文使用者于 2026 年 8 月至 9 月利用开源 AI 渗透测试框架 Cairn，结合 Zhipu GLM 5.2 与 DeepSeek V4 Flash/Pro，针对至少 19 家机构自主执行 25 次行动。</p>
+<p>🔗 <a href="https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/pwalod9qlwcnq38r5ae1i2ani">https://supertoom.github.io/dailyinfo/items/pwalod9qlwcnq38r5ae1i2ani</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 15:00:31 GMT</pubDate>
+      <guid isPermaLink="false">pwalod9qlwcnq38r5ae1i2ani</guid>
+      <author>noreply@192.168.2.208 (Unit 42)</author>
+    </item>
+    <item>
+      <title><![CDATA[Apify 内部系统遭未授权访问，轮换 API 令牌并重置 2FA]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/c67s4bpd4xqt0sv4pl6t8xk82</link>
+      <description><![CDATA[<p>Apify 在 11 月 9 日至 10 日检测到未授权第三方访问其部分内部系统，随后撤销内部凭据、轮换 API 令牌、重置全部活动会话，并断开 GitHub 等外部 OAuth 集成。受影响客户将收到邮件，被通知重新连接；公司称未发现平台存储的账户数据受影响，但建议客户重置 2FA，并称 API 令牌和 Apify Proxy 密码已被轮换、密码仍安全，2FA 码可能已暴露。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/c67s4bpd4xqt0sv4pl6t8xk82">https://supertoom.github.io/dailyinfo/items/c67s4bpd4xqt0sv4pl6t8xk82</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 14:36:47 GMT</pubDate>
+      <guid isPermaLink="false">c67s4bpd4xqt0sv4pl6t8xk82</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[Enea披露SilentAir劫持亚洲电信运营商，拦截台湾用户通话与短信]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ohahdz50two1ss8ys84ql8eef</link>
+      <description><![CDATA[<p>Enea披露国家级组织SilentAir自2025年初起利用至少6个亚洲国家运营商被劫持设备发起SS7与Diameter攻击，目标延伸至另外12个国家和地区，主要拦截台湾订户通话与短信，拦截活动占其行为的18.30%，并在部分目标拦截开始数秒后获得2FA代码。</p>
+<p>🔗 <a href="https://www.infosecurity-magazine.com/news/silentair-liminal-panda-telco/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ohahdz50two1ss8ys84ql8eef">https://supertoom.github.io/dailyinfo/items/ohahdz50two1ss8ys84ql8eef</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="false">ohahdz50two1ss8ys84ql8eef</guid>
+      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
+    </item>
+    <item>
+      <title><![CDATA[Apache mod_http2 竞态条件 CVE-2026-119618 利用条件分析]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/gj57fff8izxf8izlqj80x17m3</link>
+      <description><![CDATA[<p>Apache HTTP Server 的 mod_http2 模块存在竞态条件 CVE-2026-119618，可导致堆内存损坏和无需认证的远程代码执行，影响 Apache HTTP Server 2.4.55 至 2.4.70 及独立 mod_h2 2.0.8 至 2.0.42。</p>
+<p>🔗 <a href="https://www.praetorian.com/blog/cve-2026-119618/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/gj57fff8izxf8izlqj80x17m3">https://supertoom.github.io/dailyinfo/items/gj57fff8izxf8izlqj80x17m3</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 14:16:26 GMT</pubDate>
+      <guid isPermaLink="false">gj57fff8izxf8izlqj80x17m3</guid>
+      <author>noreply@192.168.2.208 (Praetorian Blog)</author>
+    </item>
+    <item>
+      <title><![CDATA[Check Point Security Gateway 遭 PHP2Shell 在野利用，CVE-2026-123039 被用于提权]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/y898vv9xn8ef61ymi2wwi96ss</link>
+      <description><![CDATA[<p>攻击者自 2026 年 10 月 30 日起利用未修补的 Check Point Security Gateway Mobile Access 门户开展扫描与利用，以 PHP2Shell 及 CVE-2026-109618、CVE-2026-109619 获取初始访问，再利用 DynamicCLI 接口的本地提权漏洞 CVE-2026-123039 提权至 root。</p>
+<p>🔗 <a href="https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/y898vv9xn8ef61ymi2wwi96ss">https://supertoom.github.io/dailyinfo/items/y898vv9xn8ef61ymi2wwi96ss</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 13:56:37 GMT</pubDate>
+      <guid isPermaLink="false">y898vv9xn8ef61ymi2wwi96ss</guid>
+      <author>noreply@192.168.2.208 (Check Point Research)</author>
+    </item>
+    <item>
+      <title><![CDATA[攻击者借合法令牌污染 61,764 个 GitHub 仓库窃取凭据]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ds03g4k6eknewon9ob4w2q2ms</link>
+      <description><![CDATA[<p>攻击者利用开发者与机器人账号的有效令牌，通过探测 Pull Request 测试对 61,764 个 GitHub 仓库的访问和修改权限，并在可执行恶意代码的仓库中植入凭据窃取程序。</p>
+<p>🔗 <a href="https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ds03g4k6eknewon9ob4w2q2ms">https://supertoom.github.io/dailyinfo/items/ds03g4k6eknewon9ob4w2q2ms</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 13:39:03 GMT</pubDate>
+      <guid isPermaLink="false">ds03g4k6eknewon9ob4w2q2ms</guid>
+      <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[Europol 联合九国查封 Gootloader、CastleRAT 和 StealC 基础设施，收回逾 600 万组被盗凭据]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/qd7xgce2grpxnrdp2rggpggbf</link>
+      <description><![CDATA[<p>Europol 联合九国警方本周查封 Gootloader、CastleRAT 和 StealC 恶意软件运营背后的 235 台服务器和 257 个域名，并收回感染计算机上盗取的 600 多万组凭据，缴获的凭据此前被出售并用于进一步攻击和勒索。</p>
+<p>🔗 <a href="https://www.helpnetsecurity.com/2026/11/12/europol-operation-endgame-malware-takedown/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/qd7xgce2grpxnrdp2rggpggbf">https://supertoom.github.io/dailyinfo/items/qd7xgce2grpxnrdp2rggpggbf</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 13:34:14 GMT</pubDate>
+      <guid isPermaLink="false">qd7xgce2grpxnrdp2rggpggbf</guid>
+      <author>noreply@192.168.2.208 (Help Net Security)</author>
+    </item>
+    <item>
+      <title><![CDATA[Siemens 多款楼宇自动化与能源产品受 php2shell 漏洞影响]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ppwfb9ug92t2jde5yzacrazq5</link>
+      <description><![CDATA[<p>Siemens 多款楼宇自动化与能源产品受 PHP 核心运行时远程代码执行漏洞 CVE-2026-109618 和 CVE-2026-109619 影响，攻击无需认证；前者 CVSS v3.1 为 9.8，后者为 8.1。</p>
+<p>🔗 <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ppwfb9ug92t2jde5yzacrazq5">https://supertoom.github.io/dailyinfo/items/ppwfb9ug92t2jde5yzacrazq5</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ppwfb9ug92t2jde5yzacrazq5</guid>
+      <author>noreply@192.168.2.208 (CISA 安全公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[Siemens Industrial Edge Management 受 CVE-2026-111497 影响，CVSS 9.8]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ojwlpm2lgrlu73lx8jhuqda1a</link>
+      <description><![CDATA[<p>Siemens Industrial Edge Management 多项组件受 Brotli 解码器越界写漏洞 CVE-2026-111497 影响，CVSS v3.1 为 9.8，严重级别为 CRITICAL。</p>
+<p>🔗 <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ojwlpm2lgrlu73lx8jhuqda1a">https://supertoom.github.io/dailyinfo/items/ojwlpm2lgrlu73lx8jhuqda1a</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ojwlpm2lgrlu73lx8jhuqda1a</guid>
+      <author>noreply@192.168.2.208 (CISA 安全公告)</author>
+    </item>
+    <item>
+      <title><![CDATA[N-central 4EverAble2Shell 与 Agent2Shell 暴露在野利用尝试]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/dtp3to82km6fv43pn6rwviy2e</link>
+      <description><![CDATA[<p>N-able 披露 N-central 2026.4.1 HF2 的新漏洞 4EverAble2Shell 与 Agent2Shell，PoC 已能攻击 2026.4 Hotfix 2（build 2026.4.1.26）。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dtp3to82km6fv43pn6rwviy2e">https://supertoom.github.io/dailyinfo/items/dtp3to82km6fv43pn6rwviy2e</a></p>]]></description>
+      <category>细节披露</category>
+      <pubDate>Thu, 12 Nov 2026 11:51:43 GMT</pubDate>
+      <guid isPermaLink="false">dtp3to82km6fv43pn6rwviy2e</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Elastic Security Labs 分析 SANSAR Linux 挖矿工具链 REF3364]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/czg76msqaiwm4agn4fnf09sl7</link>
+      <description><![CDATA[<p>Elastic Security Labs 追踪了 REF3364 Linux 挖矿入侵活动，攻击者利用暴露且无需认证的 Ray job agent 获取 root，并在 3 台 Linux GPU 主机部署 SANSAR Rust 编排器、XMRig 6.25.0、SRBMiner-MULTI 3.6.9、内核 rootkit、NVML 包装器和 netns 后门。</p>
+<p>🔗 <a href="https://www.elastic.co/security-labs/threat-command/sansar-linux-cryptomining-malware">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/czg76msqaiwm4agn4fnf09sl7">https://supertoom.github.io/dailyinfo/items/czg76msqaiwm4agn4fnf09sl7</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 10:48:47 GMT</pubDate>
+      <guid isPermaLink="false">czg76msqaiwm4agn4fnf09sl7</guid>
+      <author>noreply@192.168.2.208 (Elastic Security Labs)</author>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用 RMM+ 认证绕过攻击 ScreenConnect，288 台主机遭植入 SCKit]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/rj9u9s3oymbuwkube0wosddcn</link>
+      <description><![CDATA[<p>Huntress 观察到攻击者利用 RMM+ 认证绕过漏洞入侵 ConnectWise ScreenConnect，至少影响 6 家 MSP、48 家组织的 288 台主机，并在 90 分钟内完成命令投递。</p>
+<p>🔗 <a href="https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/rj9u9s3oymbuwkube0wosddcn">https://supertoom.github.io/dailyinfo/items/rj9u9s3oymbuwkube0wosddcn</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 10:39:34 GMT</pubDate>
+      <guid isPermaLink="false">rj9u9s3oymbuwkube0wosddcn</guid>
+      <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[微步复现 7-Zip LZX 解码器远程代码执行漏洞 CVE-2026-125742]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/j0h728hxubmy1jz17rm7oa7je</link>
+      <description><![CDATA[<p>微步情报局已复现 7-Zip LZX 解码器远程代码执行漏洞 CVE-2026-125742。该漏洞影响 7-Zip 0&lt;=version&lt;26.06，位于多卷 CAB 归档的续卷解码流程；攻击者可构造特制归档诱导用户解压，通过堆越界写劫持控制流实现任意代码执行。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&amp;mid=2247509041&amp;idx=1&amp;sn=d6e387eacb4bd1900b1f3c36100a3b3f">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/j0h728hxubmy1jz17rm7oa7je">https://supertoom.github.io/dailyinfo/items/j0h728hxubmy1jz17rm7oa7je</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="false">j0h728hxubmy1jz17rm7oa7je</guid>
+      <author>noreply@192.168.2.208 (微步在线研究响应中心)</author>
+    </item>
+    <item>
+      <title><![CDATA[攻击者探测 N-central 漏洞，N-able 修复 7 项漏洞]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/q4w5xdxldiml1d6aadrdvueom</link>
+      <description><![CDATA[<p>攻击者正探测 N-central 暴露实例中的零日漏洞，N-able 已为 7 项可被利用的漏洞发布补丁，其中包括未认证缺失、XXE、SSRF、XSS、权限提升及路径遍历至 RCE。</p>
+<p>🔗 <a href="https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/q4w5xdxldiml1d6aadrdvueom">https://supertoom.github.io/dailyinfo/items/q4w5xdxldiml1d6aadrdvueom</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 09:39:55 GMT</pubDate>
+      <guid isPermaLink="false">q4w5xdxldiml1d6aadrdvueom</guid>
+      <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[MongoDB Server 预认证 use-after-free 漏洞 CVE-2026-118383 可在故障转移时崩溃]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/le11re72cnlk62zbp383lzfk5</link>
+      <description><![CDATA[<p>MongoDB Server 的 CVE-2026-118383 允许未认证攻击者发送两个带 readConcern.afterOpTime 的 ping 请求，在受影响节点落后且随后赢得选举时触发 use-after-free 并使数据库崩溃；CVSS 4.0 评分为 9.5。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/le11re72cnlk62zbp383lzfk5">https://supertoom.github.io/dailyinfo/items/le11re72cnlk62zbp383lzfk5</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="false">le11re72cnlk62zbp383lzfk5</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Node.js 修复 16 个漏洞，包括可导致服务器崩溃和内存泄露的 HTTP/2 缺陷]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/okh0mnidc06s783lx019kc1m2</link>
+      <description><![CDATA[<p>Node.js 发布安全更新，修复 16 个漏洞，其中 7 个被评为高危。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/okh0mnidc06s783lx019kc1m2">https://supertoom.github.io/dailyinfo/items/okh0mnidc06s783lx019kc1m2</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 08:20:37 GMT</pubDate>
+      <guid isPermaLink="false">okh0mnidc06s783lx019kc1m2</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用 4,837 个劫持 GitHub 账户在 1,806+ 个仓库运行 CI 密钥窃取器]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/m2uopbxw2xg55pf3fx6t03uwr</link>
+      <description><![CDATA[<p>攻击者使用从周二起窃取的 4,837 个 GitHub 账户凭据，通过标题为 docs: dependency audit notes 的测试 Pull Request 检查写权限。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/m2uopbxw2xg55pf3fx6t03uwr">https://supertoom.github.io/dailyinfo/items/m2uopbxw2xg55pf3fx6t03uwr</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 06:42:47 GMT</pubDate>
+      <guid isPermaLink="false">m2uopbxw2xg55pf3fx6t03uwr</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[“雪球行动”复盘：AI 智能体自主入侵欧洲电信并触达医疗数据库]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/bfi3eiej3hntfmaspomarywop</link>
+      <description><![CDATA[<p>Malbear Labs 披露“雪球行动”，一名中文操作者借助基于 DeepSeek Flash 的自定义智能体框架，对一家欧洲电信运营商及其数据中心、云环境中的机构持续入侵两周多。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521340&amp;idx=1&amp;sn=d86adafc458a77cf2854f7e3ea8aef5f">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/bfi3eiej3hntfmaspomarywop">https://supertoom.github.io/dailyinfo/items/bfi3eiej3hntfmaspomarywop</a></p>]]></description>
+      <category>AI 安全</category>
+      <pubDate>Thu, 12 Nov 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="false">bfi3eiej3hntfmaspomarywop</guid>
+      <author>noreply@192.168.2.208 (奇安信威胁情报中心)</author>
+    </item>
+    <item>
+      <title><![CDATA[Apache HTTP/2 模块远程代码执行漏洞 CVE-2026-119618 影响 2.4.55 至 2.4.70，2.4.71 已修复]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/itghrl24hjsfp7ov68trhdxf5</link>
+      <description><![CDATA[<p>Apache HTTP Server 的 HTTP/2 模块 mod_http2 存在严重漏洞 CVE-2026-119618，攻击者无需认证即可在服务器上执行代码并完全控制服务器进程，CVSS 评分 9.8。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/itghrl24hjsfp7ov68trhdxf5">https://supertoom.github.io/dailyinfo/items/itghrl24hjsfp7ov68trhdxf5</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 12 Nov 2026 05:12:26 GMT</pubDate>
+      <guid isPermaLink="false">itghrl24hjsfp7ov68trhdxf5</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[happy-dom 服务端 SSRF 漏洞 CVE-2026-118660 全链路分析与复现]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1</link>
+      <description><![CDATA[<p>CVE-2026-118660 影响 happy-dom &lt; 21.0.0，高危、CVSS 8.6，类型为 CWE-918 服务端请求伪造；攻击者在不可信 HTML 被服务端解析且 link 或 iframe 元素完成连接时，可使 Node 进程向内网发起请求，iframe 响应还可能写入可读 DOM。</p>
+<p>🔗 <a href="https://xz.aliyun.com/news/93265">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1">https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1</a></p>]]></description>
+      <category>细节披露</category>
+      <pubDate>Thu, 12 Nov 2026 04:31:16 GMT</pubDate>
+      <guid isPermaLink="false">nqlap2xqkwi4vat4av41s3pd1</guid>
+      <author>noreply@192.168.2.208 (先知社区)</author>
+    </item>
+    <item>
+      <title><![CDATA[Claroc 发现超3.5万个 Grok Build 应用暴露机密与患者隐私]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r</link>
+      <description><![CDATA[<p>安全公司 Claroc 测得 43551 个 Grok Build 应用中有 37571 个仍在线，其中 94.7% 无需登录即可访问，估计 650—800 个应用包含私密数据，涉及 SpaceXSI、X、特斯拉及另外 30 家企业。</p>
+<p>🔗 <a href="https://www.secrss.com/articles/95584">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r">https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Thu, 12 Nov 2026 00:37:25 GMT</pubDate>
+      <guid isPermaLink="false">m11rnjnwmq1zvekwhnty0ij1r</guid>
+      <author>noreply@192.168.2.208 (安全内参)</author>
+    </item>
+    <item>
       <title><![CDATA[Unit 42 披露 ARTEX 针对全球零售与咨询云环境的多起入侵活动]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/iwwjul6qnyiu2hvmqtlcddzue</link>
       <description><![CDATA[<p>Unit 42 已观察攻击者利用 ARTEX 和 CyberStrikeAI 自主执行入侵，ARTEX 被用于攻击多个目标及零售、咨询等行业的客户云环境。截至 2026 年 10 月，研究团队发现 609 台互联网暴露主机运行 ARTEX、1,323 台运行 CyberStrikeAI，另有 21 台同时运行两者。</p>
@@ -108,17 +460,6 @@
       <author>noreply@192.168.2.208 (BleepingComputer)</author>
     </item>
     <item>
-      <title><![CDATA[Grok Build 生成应用暴露风险分析：35,578 个应用无需登录即可访问]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/dtwa818ng8oa0lmiwfqo5kf3w</link>
-      <description><![CDATA[<p>安全公司 Claroc 发现 37,571 个由 Grok Build 生成并发布的应用中，35,578 个无需登录即可访问，约 1/10 包含内部业务或个人数据。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dtwa818ng8oa0lmiwfqo5kf3w">https://supertoom.github.io/dailyinfo/items/dtwa818ng8oa0lmiwfqo5kf3w</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Wed, 11 Nov 2026 12:19:40 GMT</pubDate>
-      <guid isPermaLink="false">dtwa818ng8oa0lmiwfqo5kf3w</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
       <title><![CDATA[eMudhra 因密钥处理缺陷撤销 8 个额外 CA，涉及 195 张证书]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/hpoyhcyj8jyqis5mhai6eg4rx</link>
       <description><![CDATA[<p>eMudhra 因内部 Python 脚本缺陷及密钥处理不合规，撤销此前称未受影响的 8 个中间 CA，其中 6 个签发 TLS 证书、2 个签发代码签名证书，涉及 195 张证书及 29 个自有域名证书。</p>
@@ -216,347 +557,6 @@
       <pubDate>Wed, 11 Nov 2026 00:21:56 GMT</pubDate>
       <guid isPermaLink="false">xhmvtzol3bn8o41j00otula7s</guid>
       <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Active Storage 8.1 存在视频预览与图像处理任意文件读取及 RCE 风险]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/nypzu48uooruzzhyeowlg5cl5</link>
-      <description><![CDATA[<p>Active Storage 8.1, &lt; 8.1.4.1 存在漏洞，攻击者可通过控制上传文件名和内容类型影响 ffprobe、ffmpeg 与 ImageMagick 选择的解码器，利用启用 AviSynth 的 FFmpeg 读取应用可访问文件或加载上传的本地库，可能导致 RCE。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-v924-7rp8-4mxh">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nypzu48uooruzzhyeowlg5cl5">https://supertoom.github.io/dailyinfo/items/nypzu48uooruzzhyeowlg5cl5</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 21:38:55 GMT</pubDate>
-      <guid isPermaLink="false">nypzu48uooruzzhyeowlg5cl5</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Active Support safe_constantize 存在潜在 DoS 漏洞，影响 activesupport 8.1 且低于 8.1.4.1]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/n12d2xr0theol7egqezcvggxt</link>
-      <description><![CDATA[<p>ActiveSupport::Inflector#safe_constantize 会将未转义的常量名编译为正则表达式，可能触发 Ruby 正则表达式编译器缺陷并导致服务器进程崩溃，重复请求可造成应用不可用。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-8474-xrp6-wh69">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/n12d2xr0theol7egqezcvggxt">https://supertoom.github.io/dailyinfo/items/n12d2xr0theol7egqezcvggxt</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 21:34:11 GMT</pubDate>
-      <guid isPermaLink="false">n12d2xr0theol7egqezcvggxt</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Mongoose 原型继承属性写入漏洞分析与 PoC]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/jugiebheg5ptuxhjuq1jxk8da</link>
-      <description><![CDATA[<p>Mongoose 的文档加载、点路径赋值和更新合并三条代码路径未校验自有属性，攻击者控制的属性名可覆盖原型链上的内置函数或 Mongoose 内部共享对象。其 PoC 表明，一次请求即可使后续查询抛出 TypeError 并持续拒绝服务至进程重启；使用 strict: false 的子文档时，还可移除所有文档共享的 required 校验器。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-8332-j7wj-wjw4">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/jugiebheg5ptuxhjuq1jxk8da">https://supertoom.github.io/dailyinfo/items/jugiebheg5ptuxhjuq1jxk8da</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 20:56:16 GMT</pubDate>
-      <guid isPermaLink="false">jugiebheg5ptuxhjuq1jxk8da</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[日本家具零售商 Nitori 称黑客可能窃取 37.62 million 条客户记录]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/s8ur1jt60ywc3mv4s4fv20j7z</link>
-      <description><![CDATA[<p>日本家具及家居用品零售商 Nitori 表示，第三方未经授权访问其系统，最多 37.62 million 条个人信息可能被外部窃取。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/s8ur1jt60ywc3mv4s4fv20j7z">https://supertoom.github.io/dailyinfo/items/s8ur1jt60ywc3mv4s4fv20j7z</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 20:54:55 GMT</pubDate>
-      <guid isPermaLink="false">s8ur1jt60ywc3mv4s4fv20j7z</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用 Qubole AWS 信任关系窃取多个客户环境数据]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/z1rbbg1rezvz2n96l279tbb9b</link>
-      <description><![CDATA[<p>攻击者利用被攻陷的 Qubole IAM 凭据，接管多个客户 AWS 环境中的闲置角色并窃取数据，受害企业达数十家。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/z1rbbg1rezvz2n96l279tbb9b">https://supertoom.github.io/dailyinfo/items/z1rbbg1rezvz2n96l279tbb9b</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 19:31:11 GMT</pubDate>
-      <guid isPermaLink="false">z1rbbg1rezvz2n96l279tbb9b</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[Git 修复 CVE-2026-111760，恶意仓库可在递归克隆时执行代码]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/la28eurfu058o3k4rpz84fo7c</link>
-      <description><![CDATA[<p>Git 2.56.1 及 2.50.2、2.51.3、2.52.1、2.53.1、2.54.1、2.55.1 修复了 CVE-2026-111760，攻击者可借恶意仓库中的超长路径和子模块符号链接，在递归克隆时执行代码。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/la28eurfu058o3k4rpz84fo7c">https://supertoom.github.io/dailyinfo/items/la28eurfu058o3k4rpz84fo7c</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 19:23:10 GMT</pubDate>
-      <guid isPermaLink="false">la28eurfu058o3k4rpz84fo7c</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[NEAR AI 遭 SGLang RCE 利用，18 个 Agent 与约 100 名用户数据被窃]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/oclbliy8sva9iub474xdrfw3d</link>
-      <description><![CDATA[<p>攻击者利用开源推理引擎 SGLang 的远程代码执行漏洞，在 NEAR AI 推理服务器执行代码，并进入已弃用的 Private Chat 内部系统。公司确认约 100 名用户的邮箱、姓名及部分套餐和余额信息被下载，18 个旧版 NEAR AI Agents 的聊天记录、设置和日志遭窃，2 名客户的 NEAR AI Cloud API 密钥暴露。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/oclbliy8sva9iub474xdrfw3d">https://supertoom.github.io/dailyinfo/items/oclbliy8sva9iub474xdrfw3d</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 19:19:39 GMT</pubDate>
-      <guid isPermaLink="false">oclbliy8sva9iub474xdrfw3d</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft 11 月补丁修复 1,235 个漏洞，含遭在野利用的 Outlook 漏洞]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/aj0vbs7gavvl6l5sken24qh21</link>
-      <description><![CDATA[<p>Microsoft 11 月 2026 年补丁修复 1,235 个漏洞，其中包含已遭在野利用的 Microsoft Outlook 欺骗漏洞 CVE-2026-124194。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/aj0vbs7gavvl6l5sken24qh21">https://supertoom.github.io/dailyinfo/items/aj0vbs7gavvl6l5sken24qh21</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 19:07:36 GMT</pubDate>
-      <guid isPermaLink="false">aj0vbs7gavvl6l5sken24qh21</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[Vates VMS 披露 Xen Orchestra 认证绕过漏洞 VSA-2026-062 已被利用]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/x7edhu1rfhikbjr5w193xldog</link>
-      <description><![CDATA[<p>Vates VMS 表示，Xen Orchestra 的认证绕过漏洞 VSA-2026-062 已在真实攻击中被利用，攻击者通过特制 Cookie 获取 Admin 权限，最终可在托管池上执行任意代码并以 root 接管 XCP-ng 节点。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/x7edhu1rfhikbjr5w193xldog">https://supertoom.github.io/dailyinfo/items/x7edhu1rfhikbjr5w193xldog</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 18:12:21 GMT</pubDate>
-      <guid isPermaLink="false">x7edhu1rfhikbjr5w193xldog</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜黑客组织被指窃取 64.3 亿美元并用 meme 币洗钱]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/k9g0gy54e8kqkx59naz5nvc5r</link>
-      <description><![CDATA[<p>朝鲜黑客组织 TraderTraitor 被指于 2026 年 10 月 29 日从币*在 11 条区块链上的钱包抽走约 64.3 亿美元，其后通过拆分、跨链、资产互换、借贷金库、coinjoin 和 Privacy Cash 洗钱。</p>
-<p>🔗 <a href="https://www.secrss.com/articles/95551">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/k9g0gy54e8kqkx59naz5nvc5r">https://supertoom.github.io/dailyinfo/items/k9g0gy54e8kqkx59naz5nvc5r</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 16:44:39 GMT</pubDate>
-      <guid isPermaLink="false">k9g0gy54e8kqkx59naz5nvc5r</guid>
-      <author>noreply@192.168.2.208 (安全内参)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google 扩大 Gemini 4 Carbon 开放范围并用于 Signal 协议安全验证]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/egqz101jkiafgwcvu120xf6su</link>
-      <description><![CDATA[<p>Google 扩大 Gemini 4 Carbon 的适用范围，付费开发者、企业和 Google AI Ultra 订阅者可经 Gemini API 与 Gemini for business 使用，Cyber 版本仍限 Fairwind Program 成员。</p>
-<p>🔗 <a href="https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/egqz101jkiafgwcvu120xf6su">https://supertoom.github.io/dailyinfo/items/egqz101jkiafgwcvu120xf6su</a></p>]]></description>
-      <category>AI 安全</category>
-      <pubDate>Tue, 10 Nov 2026 16:42:02 GMT</pubDate>
-      <guid isPermaLink="false">egqz101jkiafgwcvu120xf6su</guid>
-      <author>noreply@192.168.2.208 (SecurityWeek)</author>
-    </item>
-    <item>
-      <title><![CDATA[Apple iOS worse_query 沙箱逃逸漏洞或暴露加密钱包密钥，影响 26.7.1、27.0.1 和 27.2]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/nvlwjzj3m3yzedvfp5u08pt0o</link>
-      <description><![CDATA[<p>Apple iOS 26.7.1、27.0.1 和 27.2 的 worse_query 漏洞可能允许恶意第三方应用越权读取其他应用的本地文件，危及加密货币助记词、私钥和登录凭据。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nvlwjzj3m3yzedvfp5u08pt0o">https://supertoom.github.io/dailyinfo/items/nvlwjzj3m3yzedvfp5u08pt0o</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 15:59:19 GMT</pubDate>
-      <guid isPermaLink="false">nvlwjzj3m3yzedvfp5u08pt0o</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[node-forge 修复 asn1.fromDer() 嵌套 BIT STRING 资源耗尽漏洞，CVSS 3.1 为 7.5]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/aswmt9yct5lubk8xlutacsm1t</link>
-      <description><![CDATA[<p>node-forge 的 asn1.fromDer() 存在资源耗尽漏洞，攻击者可提交小型 DER 或 PEM 结构，利用嵌套 BIT STRING 绕过 maxDepth 递归限制，消耗过多 CPU 和内存并导致 Node.js 进程拒绝服务。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-rhr8-3pm8-cq29">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/aswmt9yct5lubk8xlutacsm1t">https://supertoom.github.io/dailyinfo/items/aswmt9yct5lubk8xlutacsm1t</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 15:57:41 GMT</pubDate>
-      <guid isPermaLink="false">aswmt9yct5lubk8xlutacsm1t</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[AG2 SandboxShellTool 换行注入可绕过命令白名单与只读限制]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/dyhi8nn95b38npkt7si3jmlsy</link>
-      <description><![CDATA[<p>AG2 的 SandboxShellTool 可因命令字符串中的换行符绕过 allowed=[...] 与 readonly=True 两种限制。过滤器会拒绝 ;、&amp;&amp;、| 等 shell 操作符，却未拦截 \n 或 \r，随后原始字符串被交给 sh -c 执行，使第二条命令也能运行；默认 LocalEnvironment() 后端下，这属于宿主进程命令执行，而非容器内隔离。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-2h4w-29cv-2cmv">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dyhi8nn95b38npkt7si3jmlsy">https://supertoom.github.io/dailyinfo/items/dyhi8nn95b38npkt7si3jmlsy</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 10 Nov 2026 15:57:17 GMT</pubDate>
-      <guid isPermaLink="false">dyhi8nn95b38npkt7si3jmlsy</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[@nuxt/content 内容查询接口未授权 DoS 漏洞（3.15.2 之前版本受影响）]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/r17ig0zhfspobluf32uqoseck</link>
-      <description><![CDATA[<p>@nuxt/content 的 POST /__nuxt_content/:collection/query 接口默认无需认证，直接执行请求体中的 sql 字段，assertSafeQuery() 只拦截 SELECT 等六个关键字而不拦截 randomblob()、zeroblob()、hex()、length() 等 SQLite 内置函数。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-xxrh-5hgg-gj4h">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/r17ig0zhfspobluf32uqoseck">https://supertoom.github.io/dailyinfo/items/r17ig0zhfspobluf32uqoseck</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 15:57:12 GMT</pubDate>
-      <guid isPermaLink="false">r17ig0zhfspobluf32uqoseck</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[node-opcua 命名空间 RBAC 失败开放导致匿名写入与调用绕过]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/t38yyi1raz8ik9fsh1ryv55gz</link>
-      <description><![CDATA[<p>node-opcua 存在命名空间级 RBAC 失败开放漏洞，已声明的 DefaultRolePermissions 策略可能被运行时忽略，使 Anonymous 客户端获得 Read、Write、Call 权限；漏洞评分为 CVSS 9.8。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-xggf-m53x-jc3f">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/t38yyi1raz8ik9fsh1ryv55gz">https://supertoom.github.io/dailyinfo/items/t38yyi1raz8ik9fsh1ryv55gz</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 10 Nov 2026 15:56:52 GMT</pubDate>
-      <guid isPermaLink="false">t38yyi1raz8ik9fsh1ryv55gz</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[forcequitOS 公开 iOS 沙箱逃逸 PoC worse_query，影响 iOS 26.7.1、27.0.1 和 27.2]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/zqhb8fqggr4jdd60g720bgfej</link>
-      <description><![CDATA[<p>forcequitOS 公开了名为 worse_query 的 iOS 沙箱逃逸 PoC，可在应用创建 App Group container 后读取其他应用的数据目录，并在 iOS 27 上访问部分系统目录，影响 iOS 26.7.1、27.0.1 和 27.2。</p>
-<p>🔗 <a href="https://securityaffairs.com/202788/hacking/ios-sandbox-escape-is-public-and-apple-hasnt-confirmed-a-fix.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/zqhb8fqggr4jdd60g720bgfej">https://supertoom.github.io/dailyinfo/items/zqhb8fqggr4jdd60g720bgfej</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 10 Nov 2026 15:46:20 GMT</pubDate>
-      <guid isPermaLink="false">zqhb8fqggr4jdd60g720bgfej</guid>
-      <author>noreply@192.168.2.208 (Security Affairs)</author>
-    </item>
-    <item>
-      <title><![CDATA[N-able N-central 披露 33 个严重漏洞，含未认证 RCE 利用链]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/bascdi2f6ns6cy5dhtip9c0qp</link>
-      <description><![CDATA[<p>N-able N-central 远程监控与管理平台被披露存在 33 个严重问题，包括未认证远程代码执行（RCE）、提权至 root、凭据泄露和未授权账户创建，独立研究员已发布 PoC；其中一条利用链结合 XXE 与会话处理缺陷，以 nable 服务账户执行代码。</p>
-<p>🔗 <a href="https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/bascdi2f6ns6cy5dhtip9c0qp">https://supertoom.github.io/dailyinfo/items/bascdi2f6ns6cy5dhtip9c0qp</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 14:20:34 GMT</pubDate>
-      <guid isPermaLink="false">bascdi2f6ns6cy5dhtip9c0qp</guid>
-      <author>noreply@192.168.2.208 (Rapid7 CVE 公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Check Point Research 追踪 CopperDragon 关联 Sparrow 框架的三个攻击集群]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/yvzjhws6tdc6je8wptnrjsqgv</link>
-      <description><![CDATA[<p>Check Point Research 经一年调查识别出 SilentDelivery、OceanGate 和 DarkWire 三个关联 Sparrow 框架的攻击集群。</p>
-<p>🔗 <a href="https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/yvzjhws6tdc6je8wptnrjsqgv">https://supertoom.github.io/dailyinfo/items/yvzjhws6tdc6je8wptnrjsqgv</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 14:01:14 GMT</pubDate>
-      <guid isPermaLink="false">yvzjhws6tdc6je8wptnrjsqgv</guid>
-      <author>noreply@192.168.2.208 (Check Point Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[研究人员利用 OpenIDM 默认管理员密码接管车联网账户并解锁车辆]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/hipouup5w93oo6ld8b4hx8mhm</link>
-      <description><![CDATA[<p>研究人员 Shubham Shah 与 Sam Curry 发现，两家汽车品牌的 OpenIDM 登录服务器仍接受文档所载默认管理员凭据；绕过 WAF 后，他们可在身份服务器执行代码，修改测试账户邮箱和密码，并通过正常应用解锁、启动车辆及读取位置与遥测数据。</p>
-<p>🔗 <a href="https://www.infosecurity-magazine.com/news/forgerock-openidm-default-password/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/hipouup5w93oo6ld8b4hx8mhm">https://supertoom.github.io/dailyinfo/items/hipouup5w93oo6ld8b4hx8mhm</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 10 Nov 2026 12:15:00 GMT</pubDate>
-      <guid isPermaLink="false">hipouup5w93oo6ld8b4hx8mhm</guid>
-      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
-    </item>
-    <item>
-      <title><![CDATA[SAP 修复四项 CVSS 10.0 漏洞，其中两项可导致远程代码执行]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/jm54e8qi34bvqra3h6ykepgve</link>
-      <description><![CDATA[<p>SAP 修复 Internet Communication Manager、SAP Web Dispatcher、SAP Gateway 和 SAML2 service provider 的四项 CVSS 10.0 漏洞，分别对应 CVE-2026-76964、CVE-2026-89126、CVE-2026-89103、CVE-2026-120017，均无需用户交互即可攻击。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/jm54e8qi34bvqra3h6ykepgve">https://supertoom.github.io/dailyinfo/items/jm54e8qi34bvqra3h6ykepgve</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 10:02:40 GMT</pubDate>
-      <guid isPermaLink="false">jm54e8qi34bvqra3h6ykepgve</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Turla 利用 Microsoft Exchange 服务器部署 Cereal 后门窃取邮件]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/sif366thhfeqdn24sve2qcy60</link>
-      <description><![CDATA[<p>ESET 发现俄罗斯关联组织 Turla 在哈萨克斯坦和罗马尼亚的 2 个政府机构 Microsoft Exchange 服务器上部署模块化 .NET 工具集 Cereal，通过伪装成 Outlook Web Access、Autodiscover 和 ActiveSync 流量的请求接收命令，并筛选发件人、收件人、主题或附件名称后复制邮件。</p>
-<p>🔗 <a href="https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/sif366thhfeqdn24sve2qcy60">https://supertoom.github.io/dailyinfo/items/sif366thhfeqdn24sve2qcy60</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 10:00:39 GMT</pubDate>
-      <guid isPermaLink="false">sif366thhfeqdn24sve2qcy60</guid>
-      <author>noreply@192.168.2.208 (Help Net Security)</author>
-    </item>
-    <item>
-      <title><![CDATA[Chrome XML 双重释放漏洞 CVE-2026-125350 已被在野利用]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/z7r3ob6z5zlzhu12s71ktd4th</link>
-      <description><![CDATA[<p>Google Chrome 内置 libxslt 的 XSLT 处理链路存在双重释放（UAF）漏洞 CVE-2026-125350，CVSS 3.1 为 8.8，已被在野利用。</p>
-<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&amp;mid=2247526403&amp;idx=1&amp;sn=74b3e772b8c4fb242da449db13683206">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/z7r3ob6z5zlzhu12s71ktd4th">https://supertoom.github.io/dailyinfo/items/z7r3ob6z5zlzhu12s71ktd4th</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 09:51:00 GMT</pubDate>
-      <guid isPermaLink="false">z7r3ob6z5zlzhu12s71ktd4th</guid>
-      <author>noreply@192.168.2.208 (深信服千里目安全实验室)</author>
-    </item>
-    <item>
-      <title><![CDATA[CNCERT披露“银狐”木马“金钩（G03）”团伙攻击同花顺仿冒下载站]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/vf2fadfkovuwc9eyk4jilfa6l</link>
-      <description><![CDATA[<p>国家互联网应急中心（CNCERT）与北京观成科技有限公司分析“银狐”木马“金钩（G03）”团伙针对同花顺仿冒下载站的活动。该团伙通过SEO投毒传播捆绑木马的THS.zip，以多阶段内存加载植入远控模块，支持屏幕截图、键盘记录、远程命令执行、插件下发和信息窃取。</p>
-<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247516863&amp;idx=2&amp;sn=cee958d56977506d31b586bf4297c108">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/vf2fadfkovuwc9eyk4jilfa6l">https://supertoom.github.io/dailyinfo/items/vf2fadfkovuwc9eyk4jilfa6l</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="false">vf2fadfkovuwc9eyk4jilfa6l</guid>
-      <author>noreply@192.168.2.208 (安全内参)</author>
-    </item>
-    <item>
-      <title><![CDATA[法国指责伊朗 IRGC 单位攻击约 700 家零售店的制冷控制器]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/b0knsk24nkte3scrokxxwgqig</link>
-      <description><![CDATA[<p>法国政府称，伊朗伊斯兰革命卫队的网络单位 Shahid Kaveh 于 10 月 11 日入侵法国约 700 家零售店的 Danfoss 和 Dixell 制冷控制器，远程启动无限时除霜周期并关闭温度探针安全警报，造成食品损失和约 20 起火灾。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/b0knsk24nkte3scrokxxwgqig">https://supertoom.github.io/dailyinfo/items/b0knsk24nkte3scrokxxwgqig</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 09:08:20 GMT</pubDate>
-      <guid isPermaLink="false">b0knsk24nkte3scrokxxwgqig</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[十余家 AI 开发者平台遭同一类攻击，Chainstack 与 WorkOS 披露凭据泄露]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/qc1r9iuw591mbmk8pfatc2xbl</link>
-      <description><![CDATA[<p>9 月底至 11 月初，至少十几家 AI 开发者平台遭攻击，攻击者绕过核心业务系统与第三方组件，窃取 AI 访问令牌、数据库凭据及客户信息。</p>
-<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&amp;mid=2649790708&amp;idx=1&amp;sn=7da1b66daf2243c89e4ca903b90e4a25">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/qc1r9iuw591mbmk8pfatc2xbl">https://supertoom.github.io/dailyinfo/items/qc1r9iuw591mbmk8pfatc2xbl</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="false">qc1r9iuw591mbmk8pfatc2xbl</guid>
-      <author>noreply@192.168.2.208 (安全客)</author>
-    </item>
-    <item>
-      <title><![CDATA[Fireworks AI 披露第三方云提供商被攻破后发生的新数据泄露]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/d5ja2gdozlvbokoh76xzu4ofy</link>
-      <description><![CDATA[<p>Fireworks AI 披露，攻击者在第三方云提供商于 October 23 遭入侵后，于 October 24 触达 Fireworks 开发机器并运行未授权工作负载，导致部分客户的资源元数据、账单信息及不完整模型权重和数据集被访问。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/d5ja2gdozlvbokoh76xzu4ofy">https://supertoom.github.io/dailyinfo/items/d5ja2gdozlvbokoh76xzu4ofy</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 07:49:58 GMT</pubDate>
-      <guid isPermaLink="false">d5ja2gdozlvbokoh76xzu4ofy</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[France 指控 Iran 武装组织攻击约 700 家超市制冷系统]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/dutfochl5zqbpgtoxwe32cj7v</link>
-      <description><![CDATA[<p>France 指控 Iran 革命卫队关联的 Shahid Kaveh 小组攻击了全国约 700 家超市的制冷系统。10 月 12 日凌晨，攻击者远程控制制冷设备，使温度升至 50 Celsius（122 Fahrenheit）并持续约 6 小时，Intermarché 报告单日损失达数千万欧元。</p>
-<p>🔗 <a href="https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dutfochl5zqbpgtoxwe32cj7v">https://supertoom.github.io/dailyinfo/items/dutfochl5zqbpgtoxwe32cj7v</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 07:35:05 GMT</pubDate>
-      <guid isPermaLink="false">dutfochl5zqbpgtoxwe32cj7v</guid>
-      <author>noreply@192.168.2.208 (SecurityWeek)</author>
-    </item>
-    <item>
-      <title><![CDATA[Google 修复 Chrome 在野利用漏洞 CVE-2026-125350，年内第八个遭在野利用漏洞]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/ib6c7f43jbuvs0r8jvx7tzglv</link>
-      <description><![CDATA[<p>Chrome 已在野利用的 XML 组件释放后重用漏洞 CVE-2026-125350 被成功利用后可能造成数据损坏、程序崩溃或任意代码执行，CVSS 评分为 N/A。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/google-issues-chrome-security-update.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ib6c7f43jbuvs0r8jvx7tzglv">https://supertoom.github.io/dailyinfo/items/ib6c7f43jbuvs0r8jvx7tzglv</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 10 Nov 2026 06:52:54 GMT</pubDate>
-      <guid isPermaLink="false">ib6c7f43jbuvs0r8jvx7tzglv</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[CISA 将 OpenSSH、GPUStack、FreeSWITCH 和 IBM Aspera 漏洞列入 KEV]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/bzxsk4iknxo17c6yqkk8qii1v</link>
-      <description><![CDATA[<p>CISA 因已有在野利用证据，将 GPUStack、SignalWire FreeSwitch、OpenBSD OpenSSH 和 IBM Aspera Faspex 的 4 个漏洞加入 KEV 目录，CVSS 分数分别为 9.8、9.8、8.1 和 9.8。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/bzxsk4iknxo17c6yqkk8qii1v">https://supertoom.github.io/dailyinfo/items/bzxsk4iknxo17c6yqkk8qii1v</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 10 Nov 2026 06:31:42 GMT</pubDate>
-      <guid isPermaLink="false">bzxsk4iknxo17c6yqkk8qii1v</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[OpenSSH/musl 口令认证绕过漏洞分析与修复版本对比]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/rxh92nsgv8wymaapqss20aa6c</link>
-      <description><![CDATA[<p>文章分析 OpenSSH portable 在 musl libc 且未启用 PAM 时的口令认证绕过，解释同一 TCP 连接内先失败一次后，257–1024 字节口令可绕过影子值为 * 的非 root 账户认证。</p>
-<p>🔗 <a href="https://xz.aliyun.com/news/93241">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/rxh92nsgv8wymaapqss20aa6c">https://supertoom.github.io/dailyinfo/items/rxh92nsgv8wymaapqss20aa6c</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 10 Nov 2026 02:16:08 GMT</pubDate>
-      <guid isPermaLink="false">rxh92nsgv8wymaapqss20aa6c</guid>
-      <author>noreply@192.168.2.208 (先知社区)</author>
     </item>
   </channel>
 </rss>
