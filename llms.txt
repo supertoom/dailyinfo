@@ -46,7 +46,7 @@
 - [日报存档](https://supertoom.github.io/dailyinfo/daily/archive): 历史安全日报归档
 - [安全周报](https://supertoom.github.io/dailyinfo/weekly): 每周安全安全综合回顾（含往期）；也可用 /api/v1/weeklies、给 Agent 的 /api/v1/agent/weekly、MCP 工具 dailyinfo_get_weekly 读取，或用 /feed/weekly.xml 订阅
 - [安全月报](https://supertoom.github.io/dailyinfo/monthly): 每月安全安全盘点（含往期）；也可用 /api/v1/monthlies、给 Agent 的 /api/v1/agent/monthly、MCP 工具 dailyinfo_get_monthly 读取，或用 /feed/monthly.xml 订阅
-- [主题](https://supertoom.github.io/dailyinfo/topics): 按厂商与机构、技术方向、内容类型追踪安全最新动态（24 个主题，下一节逐个列出）
+- [主题](https://supertoom.github.io/dailyinfo/topics): 按厂商与机构、技术方向、内容类型追踪安全最新动态（25 个主题，下一节逐个列出）
 
 ## 主题：各公司与技术方向的最新动态
 
@@ -65,6 +65,7 @@
 - [密码学](https://supertoom.github.io/dailyinfo/topics/crypto): 证书、加密算法与随机数等密码学环节的失效与误用。
 - [勒索软件](https://supertoom.github.io/dailyinfo/topics/ransomware): 勒索团伙的入侵手法、泄露数据与谈判动态。
 - [数据窃取与黑产](https://supertoom.github.io/dailyinfo/topics/black-market): 数据窃取、账号盗卖、支付劫持等黑产链路的运作与治理。
+- [红队与渗透](https://supertoom.github.io/dailyinfo/topics/red-team): 渗透测试、攻防演习与红队视角下的攻击路径。
 - [应急响应](https://supertoom.github.io/dailyinfo/topics/incident): 真实安全事件的处置过程、取证与复盘。
 - [漏洞管理](https://supertoom.github.io/dailyinfo/topics/vuln-mgmt): 漏洞优先级、修复流程、资产与暴露面的管理方法。
 - [AI Agent 安全](https://supertoom.github.io/dailyinfo/topics/ai-agent): 智能体的权限边界、提示注入、工具滥用与数据外泄。

@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-14 — 攻击者利用 PHP2Shell 入侵 Check Point 网关并部署 VMware ESXi 数据擦除器]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-14</link>
+      <description><![CDATA[<p>攻击者利用 PHP2Shell 漏洞 CVE-2026-109618 和 CVE-2026-109619 入侵 Check Point Security Gateway 的 Mobile Access 门户。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/er76kiktigpbgezkupewfz59z">Apache HTTP/2 远程代码执行漏洞 CVE-2026-119618 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/w9vfncg3nuocwchohygcm6m6s">PostgreSQL 修复 52 项安全缺陷，CVE-2026-6460 可导致已认证 RCE</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/h9lynekay3g8pb2185is1c37g">攻击者利用 PHP2Shell 入侵 Check Point 网关并部署 VMware ESXi 数据擦除器</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/pc8as95x3w41yh4oar095yxmg">Operation Endgame 关闭 Gootloader、CastleRAT 和 StealC 基础设施，查获 6.4M 组失窃登录凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/h4oo2pz3pufp6tnrbp9v3x9cn">Material Security 追踪到 27 个疑似朝鲜 IT 人员身份进入企业入职流程</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kwq30stubj3ryg11q7j0ngxx8">Cloudflare 披露 AI 渗透测试编排框架激增与凭据链式利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zi4jqtzxradwjx53lvs0cf651">德国 Quantum Systems 无人机业务遭网络攻击，QBase 恶意更新疑为入口</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/es24au8p14acocvmeecd4pz0w">执法机构拆除 Gootloader 恶意软件与僵尸网络，涉及 25,000 台受感染计算机</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/qr7yw6vafmf6e5mjlmebcs0x4">Amazon Threat Intelligence 发现攻击者利用 ARTEX AI Agent 窃取凭据并绕过 KYC</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wz2ouxat7l8a80o3zl97dofcp">CyberStrikeAI 入侵 AWS：16 天内跨 4 个账户调用 78 次 API</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/qeruuzfjoy6z4m589atx262j4">Cisco Talos 发现 ARTEX 已被用于多行业攻击并关联超过 2,500 个 C2 IP 地址</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/k8q8wjtgm1ani9e5qkly6h7dl">Elastic 分析 ARTEX 等五套 AI 攻击框架及在野入侵</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-14">https://supertoom.github.io/dailyinfo/daily/2026-11-14</a></p>]]></description>
+      <pubDate>Sat, 14 Nov 2026 00:00:36 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-14</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-13 — 攻击者利用 4,837 个劫持 GitHub 账户在 1,806+ 个仓库运行 CI 密钥窃取器]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-13</link>
       <description><![CDATA[<p>攻击者使用从周二起窃取的 4,837 个 GitHub 账户凭据，通过标题为 docs: dependency audit notes 的测试 Pull Request 检查写权限。</p>
