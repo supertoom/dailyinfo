@@ -9,6 +9,50 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[Cursor 遭供应链入侵，恶意 Claude Code 扩展向最多 5,000 名开发者分发 SSH 后门]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/z2y59mturdxdsohd70ruzokq3</link>
+      <description><![CDATA[<p>Cursor 确认攻击者窃取 Fireworks AI 的访问密钥，访问内部系统并获取未脱敏 API 凭据，随后于 October 29 通过 Cursor marketplace 分发恶意 Claude Code 扩展 2.1.312 和 2.1.313。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/z2y59mturdxdsohd70ruzokq3">https://supertoom.github.io/dailyinfo/items/z2y59mturdxdsohd70ruzokq3</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 14 Nov 2026 17:27:25 GMT</pubDate>
+      <guid isPermaLink="false">z2y59mturdxdsohd70ruzokq3</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[Expedia 遭供应链攻击，n0n 声称窃取近 10 亿条旅客记录]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/mo0o847hgkw4mbxcp3hicc7jh</link>
+      <description><![CDATA[<p>Expedia 确认攻击者入侵受感染的第三方数据平台供应商，并借其可信权限进入多家公司系统，调查仍在进行且未证实 n0n 声称的数据规模。</p>
+<p>🔗 <a href="https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/mo0o847hgkw4mbxcp3hicc7jh">https://supertoom.github.io/dailyinfo/items/mo0o847hgkw4mbxcp3hicc7jh</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 14 Nov 2026 16:46:26 GMT</pubDate>
+      <guid isPermaLink="false">mo0o847hgkw4mbxcp3hicc7jh</guid>
+      <author>noreply@192.168.2.208 (Security Affairs)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国政府中断 North Korean FaceStealer 活动，查获超 4 亿美元加密资产盗取]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/q62rs7r8pongzx30vtu5q3hx7</link>
+      <description><![CDATA[<p>美国政府查获基础设施并中断 North Korean 社会工程活动 FaceStealer，该活动持续 18 个月，针对加密货币、Web3 行业及开源开发者，盗取超过 $400 million 加密资产。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/q62rs7r8pongzx30vtu5q3hx7">https://supertoom.github.io/dailyinfo/items/q62rs7r8pongzx30vtu5q3hx7</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 14 Nov 2026 15:15:49 GMT</pubDate>
+      <guid isPermaLink="false">q62rs7r8pongzx30vtu5q3hx7</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[CISA 将 Check Point 与 UnrealIRCd 漏洞 CVE-2026-123039、CVE-2026-114713 加入 KEV 目录]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/mwouaoheoihzxg7tv9qiyhivi</link>
+      <description><![CDATA[<p>CISA 将 UnrealIRCd 命令注入漏洞 CVE-2026-114713 和 Check Point 本地提权漏洞 CVE-2026-123039 加入 KEV 目录，确认均已被真实利用，并要求联邦机构在 2026 年 11 月 16 日前完成处置。</p>
+<p>🔗 <a href="https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/mwouaoheoihzxg7tv9qiyhivi">https://supertoom.github.io/dailyinfo/items/mwouaoheoihzxg7tv9qiyhivi</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Sat, 14 Nov 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="false">mwouaoheoihzxg7tv9qiyhivi</guid>
+      <author>noreply@192.168.2.208 (Security Affairs)</author>
+    </item>
+    <item>
       <title><![CDATA[Cisco Talos 发现 ARTEX 已被用于多行业攻击并关联超过 2,500 个 C2 IP 地址]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/qeruuzfjoy6z4m589atx262j4</link>
       <description><![CDATA[<p>Cisco Talos 发现开源 AI 渗透测试框架 ARTEX 已被威胁行动者用于侦察、凭据窃取、云端滥用、横向移动和数据外泄，目标覆盖金融、政府、电信、国防等行业。</p>
@@ -513,50 +557,6 @@
       <pubDate>Thu, 12 Nov 2026 06:23:00 GMT</pubDate>
       <guid isPermaLink="false">bfi3eiej3hntfmaspomarywop</guid>
       <author>noreply@192.168.2.208 (奇安信威胁情报中心)</author>
-    </item>
-    <item>
-      <title><![CDATA[happy-dom 服务端 SSRF 漏洞 CVE-2026-118660 全链路分析与复现]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1</link>
-      <description><![CDATA[<p>CVE-2026-118660 影响 happy-dom &lt; 21.0.0，高危、CVSS 8.6，类型为 CWE-918 服务端请求伪造；攻击者在不可信 HTML 被服务端解析且 link 或 iframe 元素完成连接时，可使 Node 进程向内网发起请求，iframe 响应还可能写入可读 DOM。</p>
-<p>🔗 <a href="https://xz.aliyun.com/news/93265">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1">https://supertoom.github.io/dailyinfo/items/nqlap2xqkwi4vat4av41s3pd1</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Thu, 12 Nov 2026 04:31:16 GMT</pubDate>
-      <guid isPermaLink="false">nqlap2xqkwi4vat4av41s3pd1</guid>
-      <author>noreply@192.168.2.208 (先知社区)</author>
-    </item>
-    <item>
-      <title><![CDATA[Claroc 发现超3.5万个 Grok Build 应用暴露机密与患者隐私]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r</link>
-      <description><![CDATA[<p>安全公司 Claroc 测得 43551 个 Grok Build 应用中有 37571 个仍在线，其中 94.7% 无需登录即可访问，估计 650—800 个应用包含私密数据，涉及 SpaceXSI、X、特斯拉及另外 30 家企业。</p>
-<p>🔗 <a href="https://www.secrss.com/articles/95584">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r">https://supertoom.github.io/dailyinfo/items/m11rnjnwmq1zvekwhnty0ij1r</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Thu, 12 Nov 2026 00:37:25 GMT</pubDate>
-      <guid isPermaLink="false">m11rnjnwmq1zvekwhnty0ij1r</guid>
-      <author>noreply@192.168.2.208 (安全内参)</author>
-    </item>
-    <item>
-      <title><![CDATA[Unit 42 披露 ARTEX 针对全球零售与咨询云环境的多起入侵活动]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/iwwjul6qnyiu2hvmqtlcddzue</link>
-      <description><![CDATA[<p>Unit 42 已观察攻击者利用 ARTEX 和 CyberStrikeAI 自主执行入侵，ARTEX 被用于攻击多个目标及零售、咨询等行业的客户云环境。截至 2026 年 10 月，研究团队发现 609 台互联网暴露主机运行 ARTEX、1,323 台运行 CyberStrikeAI，另有 21 台同时运行两者。</p>
-<p>🔗 <a href="https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/iwwjul6qnyiu2hvmqtlcddzue">https://supertoom.github.io/dailyinfo/items/iwwjul6qnyiu2hvmqtlcddzue</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Wed, 11 Nov 2026 23:00:53 GMT</pubDate>
-      <guid isPermaLink="false">iwwjul6qnyiu2hvmqtlcddzue</guid>
-      <author>noreply@192.168.2.208 (Unit 42)</author>
-    </item>
-    <item>
-      <title><![CDATA[ConnectWise 调查针对 MSP 的 ScreenConnect 恶意软件活动，47 家组织受影响]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/ihb325l23pcss0skikvuxyfi2</link>
-      <description><![CDATA[<p>ConnectWise 正在调查一场针对托管服务提供商（MSP）的活跃恶意软件活动，攻击者利用遭入侵的 ScreenConnect 环境，通过 Run Command 功能向客户设备部署非法远程客户端。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ihb325l23pcss0skikvuxyfi2">https://supertoom.github.io/dailyinfo/items/ihb325l23pcss0skikvuxyfi2</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Wed, 11 Nov 2026 22:56:21 GMT</pubDate>
-      <guid isPermaLink="false">ihb325l23pcss0skikvuxyfi2</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
     </item>
   </channel>
 </rss>

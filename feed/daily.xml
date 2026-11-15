@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-15 — CISA 将 Check Point 与 UnrealIRCd 漏洞 CVE-2026-123039、CVE-2026-114713 加入 KEV 目录]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-15</link>
+      <description><![CDATA[<p>CISA 将 UnrealIRCd 命令注入漏洞 CVE-2026-114713 和 Check Point 本地提权漏洞 CVE-2026-123039 加入 KEV 目录，确认均已被真实利用，并要求联邦机构在 2026 年 11 月 16 日前完成处置。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/mwouaoheoihzxg7tv9qiyhivi">CISA 将 Check Point 与 UnrealIRCd 漏洞 CVE-2026-123039、CVE-2026-114713 加入 KEV 目录</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/q62rs7r8pongzx30vtu5q3hx7">美国政府中断 North Korean FaceStealer 活动，查获超 4 亿美元加密资产盗取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/mo0o847hgkw4mbxcp3hicc7jh">Expedia 遭供应链攻击，n0n 声称窃取近 10 亿条旅客记录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/z2y59mturdxdsohd70ruzokq3">Cursor 遭供应链入侵，恶意 Claude Code 扩展向最多 5,000 名开发者分发 SSH 后门</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-15">https://supertoom.github.io/dailyinfo/daily/2026-11-15</a></p>]]></description>
+      <pubDate>Sun, 15 Nov 2026 00:00:22 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-15</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-14 — 攻击者利用 PHP2Shell 入侵 Check Point 网关并部署 VMware ESXi 数据擦除器]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-14</link>
       <description><![CDATA[<p>攻击者利用 PHP2Shell 漏洞 CVE-2026-109618 和 CVE-2026-109619 入侵 Check Point Security Gateway 的 Mobile Access 门户。</p>
