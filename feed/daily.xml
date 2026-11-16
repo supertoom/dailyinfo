@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-16 — FBI 警告 ARTEX AI 渗透测试框架被用于全球多行业攻击]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-16</link>
+      <description><![CDATA[<p>FBI 警告，开源 AI 渗透测试框架 ARTEX 已被多个威胁行为者武器化，自 2026 年 8 月起用于金融、政府、科技、国防和医疗等行业的全球攻击。</p>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/k4uuj5trh7l8y7g1ko080x2rr">FBI 警告 ARTEX AI 渗透测试框架被用于全球多行业攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tog6u532ub8dq1yucwbn56k99">Fireworks AI 密钥泄露导致 Cursor Marketplace 供应被植入 Claude Code 恶意扩展</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xa3luvbw2zj4cvxy6ym74713s">La Poste 子公司 Maileva 遭网络攻击，2200 万人姓名和邮政地址泄露</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/sk7veseq005bbedhfnw2rqegr">TSMC 员工数据泄露，6.9GB 数据疑与云服务商遭入侵有关</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xd9ub2ylkejv4lczx8263vksb">Microsoft Defender for macOS 本地权限提升漏洞利用链分析</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/lwqu8o28wvvjee598g7ec1in2">香港大学发布 FuzzAnything 智能模糊测试平台，评估覆盖 20 个开源库</a></li></ul>
+<p><strong>政策法规</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/syiens59ccuc9lmtn233vr8gd">意大利因 Facebook Android 图库访问默认开启问题罚款 Meta €805 million</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-16">https://supertoom.github.io/dailyinfo/daily/2026-11-16</a></p>]]></description>
+      <pubDate>Mon, 16 Nov 2026 00:00:38 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-16</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-15 — CISA 将 Check Point 与 UnrealIRCd 漏洞 CVE-2026-123039、CVE-2026-114713 加入 KEV 目录]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-15</link>
       <description><![CDATA[<p>CISA 将 UnrealIRCd 命令注入漏洞 CVE-2026-114713 和 Check Point 本地提权漏洞 CVE-2026-123039 加入 KEV 目录，确认均已被真实利用，并要求联邦机构在 2026 年 11 月 16 日前完成处置。</p>
