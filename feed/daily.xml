@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-17 — Rapid7发现CVE-2026-90436已被用于攻击Atlassian Confluence Data Center和N-able N-central]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-17</link>
+      <description><![CDATA[<p>Rapid7 MDR于11月13日在客户环境中检测到CVE-2026-90436对Atlassian Confluence Data Center的利用，N-able也报告了针对N-central的强关联漏洞在野利用。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/npdhl1v55b5kdqnab2s0etv9h">Rapid7发现CVE-2026-90436已被用于攻击Atlassian Confluence Data Center和N-able N-central</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/t9wrlous51du7grvxh1vej6dd">CERT/CC 披露 macOS APFS Unicode 路径碰撞漏洞，影响 HashiCorp go-slug、Deno、Libarchive 和 setuptools</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/f1pcvmbn6syja58uaunr4cute">Microsoft 软件缺陷引发全球 Microsoft 365 近 24 小时服务中断</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nyd4hh8a7m5q933cuuvf2ko4j">Linux 内核 NoisyTCP 漏洞 CVE-2026-99288 可远程崩溃服务器</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/djfa909y6nwc1azjo9fjk9eqy">攻击者开始探测 Copeland XWEB EVO 制冷控制器新披露漏洞</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a03tl88k6ybstxua2550dwhmq">Danfoss AK-SM800A 制冷控制器曝出 6 个未修复漏洞，可绕过登录远程接管</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wy00ijr8g20kod2rcokcs0tos">Barracuda 遭 Artex 驱动的云环境入侵，攻击持续约 44 小时</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/h9apyz5zi8bgzvqveztpgfzgd">SilentAir 与 LIMINAL PANDA 入侵移动网络，拦截通话和短信</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/es8fim15uyb01mav2xou16cyd">ONLYOFFICE Docs 五个漏洞可由只读权限链至容器 root</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/l67lk0sgay5edtvxvrq5uqess">Gitea diffpatch 补丁路径可触发 Git 钩子执行，CVE-2026-60004</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zuc07ygmgxny20pq5v7u0scuh">Craft CMS CVE-2026-115938 Twig 沙箱逃逸至 RCE 复现</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/qfjozx1rpstn1hhg8f5azqh9h">GTIG 报告多 Agent 攻击框架、LLMJacking 与 AI 信息操纵已用于在野行动</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-17">https://supertoom.github.io/dailyinfo/daily/2026-11-17</a></p>]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:23 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-17</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-16 — FBI 警告 ARTEX AI 渗透测试框架被用于全球多行业攻击]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-16</link>
       <description><![CDATA[<p>FBI 警告，开源 AI 渗透测试框架 ARTEX 已被多个威胁行为者武器化，自 2026 年 8 月起用于金融、政府、科技、国防和医疗等行业的全球攻击。</p>
