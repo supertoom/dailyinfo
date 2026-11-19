@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-19 — OpenJDK 披露 Base64 解码远程代码执行漏洞 CVE-2026-114938]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-19</link>
+      <description><![CDATA[<p>OpenJDK Java4Shell Base64解码远程代码执行漏洞 CVE-2026-114938 可经网络输入在无需认证的条件下劫持执行流。受影响范围包括 OpenJDK 17、21、25、27及对应 GraalVM，部分 Keycloak、Jira、Confluence 等产品存在未授权 RCE。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/npae2p2bauihkhq9p8huoutnf">OpenJDK 披露 Base64 解码远程代码执行漏洞 CVE-2026-114938</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vtnlqahysuq4nbnn9rx69mhj2">F5 与 Rapid7 披露 NGINX HTTP/2 整数下溢漏洞 CVE-2026-123007，可导致 RCE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/rnu00kwyfy4hd4up9l1g3ft2s">CISA 将 Perforce Puppet RCE 漏洞 CVE-2026-115731 列入 KEV 目录</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a7w3tajom8oplmgsmeq9ufff4">Apache Roller 未认证 RCE 漏洞 CVE-2026-129448 已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/gukgjp3s7yxibgjappzmj3sk7">Atomic Server /bookmark 端点存在未授权完整响应 SSRF</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kijmkm433626ppipkgcxpghrg">F5 披露 6 项 CVSS 9.8 的 BIG-IP 严重漏洞，可导致流量中断与 RCE</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/z69zj40alkpfq51pcwzj6kkm6">Microsoft Agent Framework 的 PyPI 包 1.26.1 和 1.26.2 被植入凭据窃取代码</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/g2782cgg3m6c29fmnezavphkf">日本 RIKEN “富岳”超算遭未授权访问，“理究”同受影响</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/kn9xddwsstfik1uerh6nlroty">Cisco Talos 发现 UAT-12643 使用 Overlord RAT 与 Good Game 窃取加密货币及账号数据</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/u0eiew4pjyv180isf2uqksz3w">Xint 披露 nginx2Root 五项 RCE 漏洞及 Linux 内核提权链</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/b1fnjx9fxpzix49ewdy3c0kzl">OpenJDK Base64 解码器漏洞 Java4Shell 利用链与 PoC 分析</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/rcdhs8ytgfe71j7zx2q9f2ktt">Rapid7 发现暴露的 Ollama 服务器已被第三方租用和控制</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-19">https://supertoom.github.io/dailyinfo/daily/2026-11-19</a></p>]]></description>
+      <pubDate>Thu, 19 Nov 2026 00:00:41 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-19</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-18 — OpenJDK Java4Shell 漏洞 CVE-2026-114938 可导致 RCE，Oracle 已发布补丁]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-18</link>
       <description><![CDATA[<p>OpenJDK 的 Java4Shell 漏洞 CVE-2026-114938 可被未认证攻击者用于 RCE，并可能泄露内存敏感信息。该内存破坏缺陷影响 OpenJDK 17.0.6 及之后版本，Calif 评为 CVSS 4.0 9.2，Oracle 评为 CVSS 3.1 8.1（High）。</p>
