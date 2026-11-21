@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-21 — Microsoft Outlook 欺骗漏洞 CVE-2026-124194 已复现并遭在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-21</link>
+      <description><![CDATA[<p>Microsoft Outlook 欺骗漏洞 CVE-2026-124194 已遭在野利用，攻击者可投递特制 .ics 日历文件诱使用户打开或导入，借此向攻击者控制的网络位置发起认证并泄露当前用户的 NTLMv2 响应；利用可远程触发，无需权限，但需要用户配合。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/nzpbt56ivpfcejp2mk6oqnujs">Microsoft Outlook 欺骗漏洞 CVE-2026-124194 已复现并遭在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/rv2ecm55xe5ces92lza6gmsz6">Ruby 字符串大小写转换堆越界写入漏洞 CVE-2026-132825 存在 RCE 风险</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/d8r57wa5dx4heczan7q6hz8i5">PHP 8.2至8.5系列曝出7个代码执行漏洞，官方已发布修复版本</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lma026dsgiyjnyodlwboyhmxp">Daptin 通用 YJS 协作端点存在 IDOR 漏洞，未授权用户可读写文件内容</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/o8h8pr20nka4isxskyxhrhckz">Etherpad /static/* 路径遍历漏洞可未认证读取任意文件并提升至 RCE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zp8d6zx3kkva6gw0b0abpm2pv">nginx 披露五项内存破坏漏洞 CVE-2026-123007 等，Cloudflare 分析代理防护边界</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zskyo0v1efsw8awv3dpq9z9qp">PHP 反序列化远程代码执行漏洞 CVE-2026-126714 已发布补丁</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/mfif5csbm0luk6anr64r4hzho">攻击者利用自主 AI 工具 Cairn 攻陷 MONAI Label 漏洞并取得服务器权限</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/do1qix3duahy7w828dz52wk6y">BlackNevas 利用合法 vCenter 管理接口破坏 VMware 虚拟化环境</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/y1q31smahyra1wu2i286xr7ey">Unit 42披露Com关联组织以语音钓鱼窃取数据并实施勒索</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/hikp8skmkm0icifdlk2ddmxo6">n0n 勒索 Qubole 后声称泄露 Chase、Visa 和 Mastercard 客户数据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a5t4y4pmj5g2r43vgy8qp8hnx">“银狐”网络攻击活动利用VPN客户端安装包传播Windows木马</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-21">https://supertoom.github.io/dailyinfo/daily/2026-11-21</a></p>]]></description>
+      <pubDate>Sat, 21 Nov 2026 00:00:28 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-21</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-20 — VMware vCenter 认证绕过漏洞 CVE-2026-123890 已被 ARMORY CASTLE 利用]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-20</link>
       <description><![CDATA[<p>VMware vCenter 的认证绕过漏洞 CVE-2026-123890 已被中国关联威胁组织 ARMORY CASTLE 在野利用，最早可追溯至 2026 年 9 月。</p>

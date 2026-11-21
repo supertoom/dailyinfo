@@ -46,13 +46,14 @@
 - [日报存档](https://supertoom.github.io/dailyinfo/daily/archive): 历史安全日报归档
 - [安全周报](https://supertoom.github.io/dailyinfo/weekly): 每周安全安全综合回顾（含往期）；也可用 /api/v1/weeklies、给 Agent 的 /api/v1/agent/weekly、MCP 工具 dailyinfo_get_weekly 读取，或用 /feed/weekly.xml 订阅
 - [安全月报](https://supertoom.github.io/dailyinfo/monthly): 每月安全安全盘点（含往期）；也可用 /api/v1/monthlies、给 Agent 的 /api/v1/agent/monthly、MCP 工具 dailyinfo_get_monthly 读取，或用 /feed/monthly.xml 订阅
-- [主题](https://supertoom.github.io/dailyinfo/topics): 按厂商与机构、技术方向、内容类型追踪安全最新动态（27 个主题，下一节逐个列出）
+- [主题](https://supertoom.github.io/dailyinfo/topics): 按厂商与机构、技术方向、内容类型追踪安全最新动态（28 个主题，下一节逐个列出）
 
 ## 主题：各公司与技术方向的最新动态
 
 每个主题页持续更新最新精选。
 
 - [Microsoft / 微软](https://supertoom.github.io/dailyinfo/topics/microsoft): 微软各产品线的安全公告与在野利用，Windows、SharePoint、Exchange、Teams 及 .NET 生态的漏洞与处置。
+- [Cisco / 思科](https://supertoom.github.io/dailyinfo/topics/cisco): 思科网络设备、IOS 与 ASA 的安全公告，Cisco Talos 的恶意软件与钓鱼基础设施研究，以及 Citrix NetScaler 相关的跟踪。
 - [Google / 谷歌](https://supertoom.github.io/dailyinfo/topics/google): Chrome 与 ChromeOS 的安全更新、Project Zero 的漏洞研究，以及 Google Cloud 的威胁情报与分析。
 - [奇安信](https://supertoom.github.io/dailyinfo/topics/qianxin): 奇安信 CERT 的漏洞风险通告、XLab 的僵尸网络与测绘研究，以及威胁情报中心的攻击追踪。
 - [CISA](https://supertoom.github.io/dailyinfo/topics/cisa): 美国 CISA 的安全公告、已知在野利用漏洞目录（KEV）与工控系统通告。
