@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[Rackspace Spot 云平台遭入侵，攻击者读取客户 Kubernetes Secrets]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/iepvrh0cnji8gnmctayok0ho0</link>
+      <description><![CDATA[<p>攻击者使用泄露凭据入侵 Rackspace Spot 云平台，在部分客户组织中以合法用户身份创建 Kubernetes Pod、读取 Secrets，并列出节点和卷，受害凭据可能包括密码、认证令牌、API 密钥及 Spot API 令牌。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/iepvrh0cnji8gnmctayok0ho0">https://supertoom.github.io/dailyinfo/items/iepvrh0cnji8gnmctayok0ho0</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 21 Nov 2026 22:59:58 GMT</pubDate>
+      <guid isPermaLink="false">iepvrh0cnji8gnmctayok0ho0</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft Entra Connect Health 漏洞遭利用，租户数据被未授权访问]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/lwn1awdsmrazlhsmt4r21vq0w</link>
+      <description><![CDATA[<p>攻击者利用 Microsoft Entra Connect Health API 漏洞，未授权读取租户级元数据，并可能修改 Connect Health 监控配置。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/lwn1awdsmrazlhsmt4r21vq0w">https://supertoom.github.io/dailyinfo/items/lwn1awdsmrazlhsmt4r21vq0w</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 21 Nov 2026 18:01:58 GMT</pubDate>
+      <guid isPermaLink="false">lwn1awdsmrazlhsmt4r21vq0w</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[BADBOX 3.0 botnet 回归，每日发起 40 亿次欺诈广告竞价请求]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/dbml5ujd9k2y3agezdbxfdnmx</link>
+      <description><![CDATA[<p>HUMAN 的 Satori 研究人员发现 BADBOX 3.0 通过受感染的 Android 设备每日发起约 40 billion 次欺诈广告竞价请求，峰值占其观察到的 CTV 流量的 4% 以上。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dbml5ujd9k2y3agezdbxfdnmx">https://supertoom.github.io/dailyinfo/items/dbml5ujd9k2y3agezdbxfdnmx</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 21 Nov 2026 15:17:27 GMT</pubDate>
+      <guid isPermaLink="false">dbml5ujd9k2y3agezdbxfdnmx</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[NebuSec 演示恶意网页劫持 Meta Muse 并读取私人聊天与记忆]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/dfh23lubzfof7rir61cxf0nq4</link>
+      <description><![CDATA[<p>NebuSec 演示恶意网页可绕过审批提示，从 Meta Muse 云端机器提取并篡改用户聊天记录与存储记忆，并结合内置浏览器和 Linux 内核缺陷取得机器控制权，访问凭据存储、保存文件及 Sentinel。攻击仅影响单台云端机器，未进入共享服务器或其他用户设备；研究为实验室演示，NebuSec 称所披露弱点均已修复，但 Meta 尚未公开确认，补丁发布前是否有用户数据被访问也未说明。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dfh23lubzfof7rir61cxf0nq4">https://supertoom.github.io/dailyinfo/items/dfh23lubzfof7rir61cxf0nq4</a></p>]]></description>
+      <category>细节披露</category>
+      <pubDate>Sat, 21 Nov 2026 11:53:07 GMT</pubDate>
+      <guid isPermaLink="false">dfh23lubzfof7rir61cxf0nq4</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[CISA 将 Apache Roller、Cisco Expressway、SAP NetWeaver 和 VMware vCenter 四项漏洞列入 KEV]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/jbitkvf4i6iewvak8ejgx9cvb</link>
+      <description><![CDATA[<p>CISA 将 Apache Roller、Cisco Expressway、SAP NetWeaver 和 VMware vCenter 的 4 个漏洞列入 KEV，依据是已发现活跃利用证据。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/jbitkvf4i6iewvak8ejgx9cvb">https://supertoom.github.io/dailyinfo/items/jbitkvf4i6iewvak8ejgx9cvb</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Sat, 21 Nov 2026 08:49:13 GMT</pubDate>
+      <guid isPermaLink="false">jbitkvf4i6iewvak8ejgx9cvb</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
       <title><![CDATA[Contao core-bundle 漏洞分析：theme_import 权限可绕过 tpl_editor 限制实现 RCE]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/ql8z19mw87u0y7njlw1p4sq74</link>
       <description><![CDATA[<p>Contao core-bundle 存在权限提升漏洞，受委托的用户或用户组管理员可为自己或所管理的账户添加 theme_import 权限，进而在服务器上执行任意 PHP。</p>
@@ -502,61 +557,6 @@
       <pubDate>Thu, 19 Nov 2026 15:18:07 GMT</pubDate>
       <guid isPermaLink="false">wfvwclz2yypcudxbab0s81bqj</guid>
       <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[VMware vCenter 认证绕过漏洞 CVE-2026-123890，CVSS 9.8]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/oy8aa1yf0lb6hllwj6lpg2yh4</link>
-      <description><![CDATA[<p>Broadcom 披露 VMware vCenter 认证绕过漏洞 CVE-2026-123890，攻击者仅需网络访问即可绕过认证并获得未授权访问，CVSS 评分 9.8。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/oy8aa1yf0lb6hllwj6lpg2yh4">https://supertoom.github.io/dailyinfo/items/oy8aa1yf0lb6hllwj6lpg2yh4</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 15:11:06 GMT</pubDate>
-      <guid isPermaLink="false">oy8aa1yf0lb6hllwj6lpg2yh4</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rapid7 分析 Webworm 定制的 SoftEther VPN 桥接工具 NtMonitor]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/zivjvo29t1jew4ih1bkfouif8</link>
-      <description><![CDATA[<p>Rapid7 分析了一个此前未公开的定制 SoftEther 桥接工具 NtMedium Monitor（NtMonitor），以中等置信度归因于中国相关的 APT 组织 Webworm。</p>
-<p>🔗 <a href="https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/zivjvo29t1jew4ih1bkfouif8">https://supertoom.github.io/dailyinfo/items/zivjvo29t1jew4ih1bkfouif8</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Thu, 19 Nov 2026 15:05:34 GMT</pubDate>
-      <guid isPermaLink="false">zivjvo29t1jew4ih1bkfouif8</guid>
-      <author>noreply@192.168.2.208 (Rapid7 CVE 公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[European Commission 确认遭 AI 驱动网络攻击，多项应用被临时下线]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/l9hohsjkbs1vdmrgj7b8hg1pm</link>
-      <description><![CDATA[<p>European Commission 确认遭到使用公开 AI 工具实施的网络攻击，入侵于 2026 年 10 月 22 日被发现、10 月 26 日被定性为网络攻击，导致包括员工工资与考勤系统 Sysper、医疗报销系统在内的多项应用被临时下线，目前大部分已恢复。</p>
-<p>🔗 <a href="https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/l9hohsjkbs1vdmrgj7b8hg1pm">https://supertoom.github.io/dailyinfo/items/l9hohsjkbs1vdmrgj7b8hg1pm</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Thu, 19 Nov 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="false">l9hohsjkbs1vdmrgj7b8hg1pm</guid>
-      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
-    </item>
-    <item>
-      <title><![CDATA[俄罗斯间谍组织 COLD RELIC 利用云端入侵冒充员工钓鱼后续目标]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/otlmhixhsya3dvwx5u2d3qxx2</link>
-      <description><![CDATA[<p>Google Threat Intelligence Group 披露，俄罗斯网络间谍组织 COLD RELIC 利用已窃取的云端账户和员工资料，冒充受害者组织人员，通过钓鱼链接攻击欧洲和北美政府官员、国防承包商及 NGO。</p>
-<p>🔗 <a href="https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/otlmhixhsya3dvwx5u2d3qxx2">https://supertoom.github.io/dailyinfo/items/otlmhixhsya3dvwx5u2d3qxx2</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Thu, 19 Nov 2026 14:42:20 GMT</pubDate>
-      <guid isPermaLink="false">otlmhixhsya3dvwx5u2d3qxx2</guid>
-      <author>noreply@192.168.2.208 (Help Net Security)</author>
-    </item>
-    <item>
-      <title><![CDATA[Apache Axis CVE-2026-90436 与 Apache Roller CVE-2026-129448 已遭在野利用]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/j4s27xftxuxxz61195rb78ckj</link>
-      <description><![CDATA[<p>Apache Axis CVE-2026-90436 与 Apache Roller CVE-2026-129448 已被用于真实攻击，两者 CVSS 均为 9.8。</p>
-<p>🔗 <a href="https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/j4s27xftxuxxz61195rb78ckj">https://supertoom.github.io/dailyinfo/items/j4s27xftxuxxz61195rb78ckj</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 12:13:24 GMT</pubDate>
-      <guid isPermaLink="false">j4s27xftxuxxz61195rb78ckj</guid>
-      <author>noreply@192.168.2.208 (SecurityWeek)</author>
     </item>
   </channel>
 </rss>
