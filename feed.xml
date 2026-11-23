@@ -9,6 +9,61 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[攻击者利用 GL.iNet GoodCloud 漏洞感染路由器与 KVM 设备]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/i27aenxyu7ec3i7ftauologeu</link>
+      <description><![CDATA[<p>攻击者已利用 GL.iNet GoodCloud 云远程管理服务漏洞，在客户路由器和 KVM 设备中安装恶意软件；部分设备出现 root 级反向 Shell，攻击基础设施包括 66.245.219[.]252 和 65.20.71[.]131。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/i27aenxyu7ec3i7ftauologeu">https://supertoom.github.io/dailyinfo/items/i27aenxyu7ec3i7ftauologeu</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sun, 22 Nov 2026 18:45:37 GMT</pubDate>
+      <guid isPermaLink="false">i27aenxyu7ec3i7ftauologeu</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[Cleverbridge 遭黑客入侵，支付卡号与 CVV/CVC 数据被窃]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/atovtf3rgx78nodedw7k6h9cz</link>
+      <description><![CDATA[<p>Cleverbridge 表示，黑客入侵其平台并窃取客户用于平台购物的支付卡号、到期日和 CVV/CVC 安全码，但未泄露姓名、联系方式或账单信息。公司于 2026 年 11 月 4 日发现未授权活动并临时下线系统，同日恢复后确认第三方复制了平台存储的支付卡数据；自 11 月 20 日起通知受影响客户，但尚未披露受影响客户数量、攻击者进入平台的方式、停留时间或数据是否加密。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/atovtf3rgx78nodedw7k6h9cz">https://supertoom.github.io/dailyinfo/items/atovtf3rgx78nodedw7k6h9cz</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sun, 22 Nov 2026 15:43:04 GMT</pubDate>
+      <guid isPermaLink="false">atovtf3rgx78nodedw7k6h9cz</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[VMware vCenter 认证绕过漏洞 CVE-2026-123890 已被在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/cpkja8bnlhxmi5kohgn7eye4s</link>
+      <description><![CDATA[<p>VMware vCenter 认证绕过漏洞 CVE-2026-123890 已被公开研究确认用于在野利用，长亭安全应急响应中心已完成复现验证。攻击者无需凭据，只需访问默认 TCP 2012 端口上的目录服务 RPC 接口，即可取得内置管理员会话，读取目录数据库、伪造 SSO 身份并创建管理员账号。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&amp;mid=2247493574&amp;idx=2&amp;sn=fa6556997dc76f69e9fe5503d753a9fe">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/cpkja8bnlhxmi5kohgn7eye4s">https://supertoom.github.io/dailyinfo/items/cpkja8bnlhxmi5kohgn7eye4s</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Sun, 22 Nov 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="false">cpkja8bnlhxmi5kohgn7eye4s</guid>
+      <author>noreply@192.168.2.208 (长亭安全应急响应中心)</author>
+    </item>
+    <item>
+      <title><![CDATA[Researchers uncover months of prompt theft across three AI inference providers]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/m2rhspo6lynif9g168qaa6ue2</link>
+      <description><![CDATA[<p>Dragos 通过 canary token 研究发现，攻击者从 3 家 AI inference provider 内部窃取数据数月，最早始于 7 月中旬；OpenRouter 因此移除 3 家提供商及 125 个 Zero Data Retention 端点并通知潜在受影响客户，但 OpenRouter 本身未遭入侵。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/m2rhspo6lynif9g168qaa6ue2">https://supertoom.github.io/dailyinfo/items/m2rhspo6lynif9g168qaa6ue2</a></p>]]></description>
+      <category>AI 安全</category>
+      <pubDate>Sun, 22 Nov 2026 05:06:55 GMT</pubDate>
+      <guid isPermaLink="false">m2rhspo6lynif9g168qaa6ue2</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[Artifex Ghostscript -dSAFER 沙箱绕过漏洞 CVE-2026-125396 已复现]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/s68hl88mb77wpvsqsv9cuf6as</link>
+      <description><![CDATA[<p>Artifex Ghostscript &lt; 10.08.0 的 -dSAFER 沙箱绕过漏洞 CVE-2026-125396 已被奇安信 CERT 复现，CVSS 4.0 分数为 8.5。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&amp;mid=2247508224&amp;idx=1&amp;sn=2ab11be61822d4389080836c4f6663af">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/s68hl88mb77wpvsqsv9cuf6as">https://supertoom.github.io/dailyinfo/items/s68hl88mb77wpvsqsv9cuf6as</a></p>]]></description>
+      <category>细节披露</category>
+      <pubDate>Sun, 22 Nov 2026 04:43:00 GMT</pubDate>
+      <guid isPermaLink="false">s68hl88mb77wpvsqsv9cuf6as</guid>
+      <author>noreply@192.168.2.208 (奇安信 CERT)</author>
+    </item>
+    <item>
       <title><![CDATA[Rackspace Spot 云平台遭入侵，攻击者读取客户 Kubernetes Secrets]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/iepvrh0cnji8gnmctayok0ho0</link>
       <description><![CDATA[<p>攻击者使用泄露凭据入侵 Rackspace Spot 云平台，在部分客户组织中以合法用户身份创建 Kubernetes Pod、读取 Secrets，并列出节点和卷，受害凭据可能包括密码、认证令牌、API 密钥及 Spot API 令牌。</p>
@@ -501,61 +556,6 @@
       <category>细节披露</category>
       <pubDate>Thu, 19 Nov 2026 16:59:56 GMT</pubDate>
       <guid isPermaLink="false">h3xl056qiyuu6k5htjyc23p49</guid>
-      <author>noreply@192.168.2.208 (The Hacker News)</author>
-    </item>
-    <item>
-      <title><![CDATA[PHP 安全更新修复 18 个漏洞，CVE-2026-129289 涉及未认证 RCE]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/yzdntmi57hv3f0dhps9tsd7c4</link>
-      <description><![CDATA[<p>PHP 开发者团队发布 18 个漏洞的安全更新，覆盖 PHP 核心引擎、会话处理、PHP-FPM、CGI 等组件；PHP 8.5.13、8.4.28、8.3.37、8.2.36 已发布，适用于对应支持分支。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/yzdntmi57hv3f0dhps9tsd7c4">https://supertoom.github.io/dailyinfo/items/yzdntmi57hv3f0dhps9tsd7c4</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 16:28:23 GMT</pubDate>
-      <guid isPermaLink="false">yzdntmi57hv3f0dhps9tsd7c4</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[PHP 修复 7 个严重级 RCE 漏洞，发布 PHP 8.6.0 与 8.5.13]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/cxsrv3tj2ve440bw0s2r18iyx</link>
-      <description><![CDATA[<p>PHP 发布安全更新，修复 7 个严重级远程代码执行（RCE）漏洞，包括会话上传进度反序列化、多个 use-after-free、PHP-FPM 请求走私和时区缓存释放后使用问题。</p>
-<p>🔗 <a href="https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/cxsrv3tj2ve440bw0s2r18iyx">https://supertoom.github.io/dailyinfo/items/cxsrv3tj2ve440bw0s2r18iyx</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 15:54:20 GMT</pubDate>
-      <guid isPermaLink="false">cxsrv3tj2ve440bw0s2r18iyx</guid>
-      <author>noreply@192.168.2.208 (SecurityWeek)</author>
-    </item>
-    <item>
-      <title><![CDATA[攻击者滥用 CyberPower PowerPanel 在域控制器运行恶意脚本]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/iqdjh7ur9xudskpehj0nrufc5</link>
-      <description><![CDATA[<p>攻击者滥用 CyberPower PowerPanel Business (PBB) 的断电脚本功能，通过 Web 控制台上传脚本并在 Windows 域控制器上以 SYSTEM 权限执行，随后投放反病毒杀手、复制存储网络账户凭据的 Active Directory 数据库，并借助 DLL sideloading 植入持久化组件。</p>
-<p>🔗 <a href="https://www.infosecurity-magazine.com/news/ups-software-abused-domain/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/iqdjh7ur9xudskpehj0nrufc5">https://supertoom.github.io/dailyinfo/items/iqdjh7ur9xudskpehj0nrufc5</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Thu, 19 Nov 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="false">iqdjh7ur9xudskpehj0nrufc5</guid>
-      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
-    </item>
-    <item>
-      <title><![CDATA[PHP Foundation 发布 18 个漏洞安全补丁，其中 7 个为严重漏洞]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/g6qlaey479p2s1edkpk8yi997</link>
-      <description><![CDATA[<p>PHP Foundation 于 19 November 2026 发布安全补丁，修复 18 个漏洞，其中 7 个为严重漏洞，影响所有仍受支持的 PHP 版本，但利用通常需要非默认配置或较少见的环境。</p>
-<p>🔗 <a href="https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/g6qlaey479p2s1edkpk8yi997">https://supertoom.github.io/dailyinfo/items/g6qlaey479p2s1edkpk8yi997</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 15:28:00 GMT</pubDate>
-      <guid isPermaLink="false">g6qlaey479p2s1edkpk8yi997</guid>
-      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
-    </item>
-    <item>
-      <title><![CDATA[PHP 修复 8 个关键漏洞，CVE-2026-115560 等可导致远程代码执行]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/wfvwclz2yypcudxbab0s81bqj</link>
-      <description><![CDATA[<p>PHP Foundation 发布安全更新，修复包括 CVE-2026-115560 在内的 8 个漏洞，其中 7 个 CVSS 9.2，可能导致远程代码执行、内存破坏、会话损坏、拒绝服务或本地权限提升。</p>
-<p>🔗 <a href="https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/wfvwclz2yypcudxbab0s81bqj">https://supertoom.github.io/dailyinfo/items/wfvwclz2yypcudxbab0s81bqj</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Thu, 19 Nov 2026 15:18:07 GMT</pubDate>
-      <guid isPermaLink="false">wfvwclz2yypcudxbab0s81bqj</guid>
       <author>noreply@192.168.2.208 (The Hacker News)</author>
     </item>
   </channel>
