@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-24 — GT13 攻击活动入侵 Check Point Security Management Servers，至少影响 22 家组织]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-24</link>
+      <description><![CDATA[<p>GreyNoise 发现 GT13 针对 Check Point Security Management Servers 的入侵活动，确认攻击发生于 2026 年 10 月 17 日至 11 月 2 日，至少影响全球 22 家组织，涉及 24 台受控服务器。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xq8xakipwwrrbp544jsizje8i">Azure API Management Classic 漏洞被用于窃取挪威能源公司密钥</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/k2zsycnny1ugsek91lkczs5fq">N-able 修复 Mail Assure 与 SpamExperts SSRF 漏洞 CVE-2026-134624</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/iem1v1rdf735rh87a15ydka7e">GT13 攻击活动入侵 Check Point Security Management Servers，至少影响 22 家组织</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zzi7f7xofm7gytvcqddw0dvqq">KEPCO 确认数据泄露，超过 150 万人信息被访问</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/msk8129yc8fadoi6jreqf6gt2">Google Ads 投放虚假 Codex 与 Claude Code 下载页面攻击 Mac 用户</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lyf96vda5zff8pbjkukxgohx6">Bulgaria 发现持续五年的政府网络间谍活动，130 GB 文件被窃取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/q18h9n20h190vesq5m40qb6vd">GlobeTopper 遭黑客入侵，攻击者盗用 $70,000 礼品卡并造成约 $2.5 million 收入损失</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/ysh9eoiejcit2sca72qq4z9j7">VirtualBox 进程加固绕过 CVE-2026-87268 与 .NET 代码完整性分析</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/c8wjp58mjtg86cgal7wl3xraq">CERT-In 警告 AI 辅助攻击导致印度银行与金融科技机构发生未授权付款</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-24">https://supertoom.github.io/dailyinfo/daily/2026-11-24</a></p>]]></description>
+      <pubDate>Tue, 24 Nov 2026 00:00:30 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-24</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-23 — Artifex Ghostscript -dSAFER 沙箱绕过漏洞 CVE-2026-125396 已复现]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-23</link>
       <description><![CDATA[<p>Artifex Ghostscript &lt; 10.08.0 的 -dSAFER 沙箱绕过漏洞 CVE-2026-125396 已被奇安信 CERT 复现，CVSS 4.0 分数为 8.5。</p>
