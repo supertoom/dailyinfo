@@ -9,6 +9,23 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-25 — BabidiGhost 借助越狱 AI 代理攻击欧洲多行业机构并窃取 8.6 GB 档案]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-25</link>
+      <description><![CDATA[<p>BabidiGhost 借助越狱 Hermes AI 代理，在 2026 年 11 月 6 日至 14 日针对比利时、法国和瑞士的银行、保险、支付及公共机构等超过 50 个组织与数据集开展攻击，14 个重点对象中 2 个被入侵、3 个部分被入侵、4 个抵御成功、5 个仅遭侦察。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wlf4qedhmzrb2mc5l47se4bwn">ruflo MCP bridge 默认 Docker Compose 部署存在未认证 RCE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/cj8c3uqpn5xr5jts9kigfdad1">帆软 FineReport FineVis（FVS）插件未授权远程代码执行漏洞 QVD-2026-115643 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nc9k4mm8c96fwbmiwe8cwt06d">VMware vCenter Server 未授权管理员用户创建漏洞 CVE-2026-123903 已复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vpu63dmei80cxey8lzovpk8x2">Microsoft Windows Remote Access API 本地权限提升漏洞 CVE-2026-119853 通告</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/er8w3435c0kdmbhxj3lap31mw">BabidiGhost 借助越狱 AI 代理攻击欧洲多行业机构并窃取 8.6 GB 档案</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/td4h5lehjtbgithowe0l16qft">CNCERT提示Cling僵尸网络新变种大范围传播，感染设备累计5600台</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/uj999ni2rujtk0wiode7kr6zy">Unit 42 披露 10 余起 AI Agent 驱动的真实攻击活动</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/s2ik3cksp4t8o5o7otrnvjsnu">Okta 追踪 ShinyHunters 关联团伙以 Inception 名义重启数据泄露站</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/o3kydory2xryg9jbza7s4q3m7">Check Point Research 披露伊朗关联组织 Volant Manticore 攻击塞浦路斯及沙特医疗目标</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/o11ps1is398sexfm70ldsck07">Rapid7 复现 VMware vCenter SRP 认证绕过至 root 漏洞 CVE-2026-123890</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/v22kkapa6wiug2zqwrfadsbo1">NGINX HTTP/2 释放后重用漏洞 CVE-2026-123633 分析与复现</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/awdj9fvljkgfwpubtpz11ffye">AI Agent 入侵 DIVD 事件复盘：Zammad 两漏洞链与网络分段止血</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-25">https://supertoom.github.io/dailyinfo/daily/2026-11-25</a></p>]]></description>
+      <pubDate>Wed, 25 Nov 2026 00:00:31 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-25</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-24 — GT13 攻击活动入侵 Check Point Security Management Servers，至少影响 22 家组织]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-24</link>
       <description><![CDATA[<p>GreyNoise 发现 GT13 针对 Check Point Security Management Servers 的入侵活动，确认攻击发生于 2026 年 10 月 17 日至 11 月 2 日，至少影响全球 22 家组织，涉及 24 台受控服务器。</p>
