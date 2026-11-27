@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-27 — Drupal 安装器补丁遗漏导致 CVE-2026-136716 已被在野利用]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-27</link>
+      <description><![CDATA[<p>Drupal 披露 CVE-2026-136716，其 CMSS 评分为 21/25，属于可导致网站接管的访问绕过漏洞，并确认已在野利用。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/edycapt0khpdxw9pdgw91bldq">Drupal 安装器补丁遗漏导致 CVE-2026-136716 已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/zptj6mohcgm2b6eayxup65amy">Drupal 安装程序远程代码执行漏洞 CVE-2026-132165 已被在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nkult1dbuzi5bl0l22u9aiv2c">攻击者利用 Mitel、Juniper、Vates 与 Danfoss 的 10 个漏洞，CISA 已列入 KEV</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/waly7f5cwuea4sg732ir9h5vt">Danfoss AK-SM 8xxA Series 控制器曝栈溢出漏洞 CVE-2026-129713，CVSS 9.8</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/kcwxcgi3mbarz9m115ch1kn3v">Mitel MiCollab 5 个零日漏洞遭在野利用，CISA 已将其纳入 KEV</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/tw1sqonucogwlek1xpza88mc0">美国 CIA 开源情报系统疑遭 AI 驱动的 ARTEX 渗透测试智能体入侵</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/g2obwrf736za9vvdn0fst3ayg">SYS010 信息窃取木马借 Meta 广告强制安装浏览器扩展窃取 Gmail 与 Outlook 邮件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nn1df6kue93w1afswhivjvdl3">攻击者利用 Hugging Face AI 网站生成器搭建 42 个钓鱼页面</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/en1gv0ci3e610k5ce0nrbau25">Kaspersky 发现 Keenadu 后门预装于超过 220,000 台 Android 设备</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m5ausxhtut34kmi7zcnx0ncei">North Korea关联PolinRider污染超7,600个GitHub仓库传播恶意软件</a></li></ul>
+<p><strong>研究与披露</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/dxxqjaqglxg4apdale1xcta81">PHP-FPM FastCGI 连接复用请求走私漏洞 CVE-2026-129289 分析与复现</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ougur29x6priknjuve15twubc">ELF DT_RELR 压缩重定位导致 objdump -R 审计盲区分析与绕过</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-27">https://supertoom.github.io/dailyinfo/daily/2026-11-27</a></p>]]></description>
+      <pubDate>Fri, 27 Nov 2026 00:00:18 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-27</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-26 — GeoServer 未认证远程代码执行漏洞链 CVE-2026-129242 等已复现]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-26</link>
       <description><![CDATA[<p>GeoServer 未认证远程代码执行漏洞链涉及 CVE-2026-129244、CVE-2026-129243、CVE-2026-120705、CVE-2026-129245 和 CVE-2026-129242，奇安信 CERT 已复现，PoC 和技术细节均已公开。</p>
