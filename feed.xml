@@ -9,6 +9,127 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[疑似越南关联黑客组织 WeaveLotus 借漏洞和弱口令攻击东南亚]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/emxtvs4jso1up4wm8nw6pcp6o</link>
+      <description><![CDATA[<p>SOCRadar 披露，疑似越南关联组织 WeaveLotus 于 2026 年 8 月至 9 月实施 RedOps 间谍活动，针对菲律宾、泰国和印度尼西亚的军方、政府及立法机构收集南海防务与军事协议情报。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/emxtvs4jso1up4wm8nw6pcp6o">https://supertoom.github.io/dailyinfo/items/emxtvs4jso1up4wm8nw6pcp6o</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 16:36:11 GMT</pubDate>
+      <guid isPermaLink="false">emxtvs4jso1up4wm8nw6pcp6o</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国空军 Cloud One 云平台遭入侵，攻击范围与数据失窃情况不明]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/wuwxqwmjofamcgppwkw7wuf5s</link>
+      <description><![CDATA[<p>美国空军主要云计算平台 Cloud One 遭黑客入侵，攻击者身份、受影响范围及数据是否被窃取尚未确认。该事件约在 1 个月前升级平台时被发现，导致服务中断、应用更新被阻止，后台应用迁移至 Cloud One 的工作暂停，部分用户管理员权限被撤销。</p>
+<p>🔗 <a href="https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/wuwxqwmjofamcgppwkw7wuf5s">https://supertoom.github.io/dailyinfo/items/wuwxqwmjofamcgppwkw7wuf5s</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 15:03:05 GMT</pubDate>
+      <guid isPermaLink="false">wuwxqwmjofamcgppwkw7wuf5s</guid>
+      <author>noreply@192.168.2.208 (Security Affairs)</author>
+    </item>
+    <item>
+      <title><![CDATA[研究称 GPT-6.1 Sol 与 DeepSeek V4.1 Flash 已能直接推理机器码并修改 ELF64]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/wxa4qyt8tjvrulxqjudzktvpj</link>
+      <description><![CDATA[<p>研究团队让 GPT-6.1 Sol 在无反汇编器、调试器和运行权限的条件下读取 hex dump，4 段程序判断全部正确，并能修改 3 个程序及生成可运行的 ELF64。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247516960&amp;idx=2&amp;sn=4b787e1f470dd3b3cd01817458572795">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/wxa4qyt8tjvrulxqjudzktvpj">https://supertoom.github.io/dailyinfo/items/wxa4qyt8tjvrulxqjudzktvpj</a></p>]]></description>
+      <category>AI 安全</category>
+      <pubDate>Fri, 27 Nov 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="false">wxa4qyt8tjvrulxqjudzktvpj</guid>
+      <author>noreply@192.168.2.208 (安全内参)</author>
+    </item>
+    <item>
+      <title><![CDATA[Cacti Core 1.2.31 未授权远程代码执行漏洞 QVD-2026-117631 已公开 PoC]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre</link>
+      <description><![CDATA[<p>Cacti Core 1.2.31 存在未授权远程代码执行漏洞 QVD-2026-117631，攻击者在启用 Guest 账户且可访问 Web 接口时，无需认证即可通过少量 HTTP 请求执行任意命令。</p>
+<p>🔗 <a href="https://www.secrss.com/articles/96052">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre">https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Fri, 27 Nov 2026 10:05:30 GMT</pubDate>
+      <guid isPermaLink="false">rfirwc4gz7xd4ktjxcnwoqtre</guid>
+      <author>noreply@192.168.2.208 (安全内参)</author>
+    </item>
+    <item>
+      <title><![CDATA[科罗拉多州 myColorado 应用数据泄露，约 100,000 人可能受影响]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/bp3mhwtmbzqp2s4qlj7c99iek</link>
+      <description><![CDATA[<p>科罗拉多州州长信息技术办公室（OIT）披露，攻击者未经授权访问 myColorado 应用数据，约 100,000 人可能受影响。该应用约有 2.1 million 用户，泄露内容位于“myCards and Documents”区段，包括 PDF 文件、政府身份证件、车辆登记和保险卡照片，但未访问支付信息。</p>
+<p>🔗 <a href="https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/bp3mhwtmbzqp2s4qlj7c99iek">https://supertoom.github.io/dailyinfo/items/bp3mhwtmbzqp2s4qlj7c99iek</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 09:30:54 GMT</pubDate>
+      <guid isPermaLink="false">bp3mhwtmbzqp2s4qlj7c99iek</guid>
+      <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[Linux 内核 NFS 服务器漏洞 CVE-2026-99362 可远程提权，OpenSec 称其为 NFS2ROOT]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ac1tlqg3g5b5d0yn83tpuilhf</link>
+      <description><![CDATA[<p>Linux 内核 NFS 服务器存在堆缓冲区溢出漏洞 CVE-2026-99362，由 ANSSI 的 Jérémy Jean 发现，OpenSec 将其称为 NFS2ROOT 并给出完整的远程 root 利用代码。</p>
+<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ac1tlqg3g5b5d0yn83tpuilhf">https://supertoom.github.io/dailyinfo/items/ac1tlqg3g5b5d0yn83tpuilhf</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Fri, 27 Nov 2026 08:06:58 GMT</pubDate>
+      <guid isPermaLink="false">ac1tlqg3g5b5d0yn83tpuilhf</guid>
+      <author>noreply@192.168.2.208 (BleepingComputer)</author>
+    </item>
+    <item>
+      <title><![CDATA[SAP 确认遭遇网络攻击，GitHub 上的源代码据称被窃取]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/hula7qv4z43seiug59c3dry5x</link>
+      <description><![CDATA[<p>SAP 确认正在调查一起网络安全事件，称已发现可疑活动并采取了保护客户与服务安全的措施。德国 Der Spiegel 与 DPA 报道称，黑客获取了 SAP 员工的认证 token，可在 GitHub 上复制并篡改源代码；SAP 未披露攻击细节，称截至目前未发现客户业务数据被未授权访问的证据，且尚不明确攻击者是否访问了专有代码。</p>
+<p>🔗 <a href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/hula7qv4z43seiug59c3dry5x">https://supertoom.github.io/dailyinfo/items/hula7qv4z43seiug59c3dry5x</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 07:36:14 GMT</pubDate>
+      <guid isPermaLink="false">hula7qv4z43seiug59c3dry5x</guid>
+      <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[瑞士确认 AI 代理攻击入侵关键基础设施运营机构]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/qsdh0wd9ulfwtz0jempu7h8zj</link>
+      <description><![CDATA[<p>瑞士确认 5 起 AI 代理攻击中 4 起已成功入侵，其中 3 起针对关键基础设施运营机构，2 起入侵成功但未报告重大中断。攻击者可自动发现未修补弱点、并行发起攻击并在受阻后切换方法；意大利与英国机构也观察到自主代理在数小时内攻破大量系统。</p>
+<p>🔗 <a href="https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/qsdh0wd9ulfwtz0jempu7h8zj">https://supertoom.github.io/dailyinfo/items/qsdh0wd9ulfwtz0jempu7h8zj</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 06:04:20 GMT</pubDate>
+      <guid isPermaLink="false">qsdh0wd9ulfwtz0jempu7h8zj</guid>
+      <author>noreply@192.168.2.208 (The Hacker News)</author>
+    </item>
+    <item>
+      <title><![CDATA[美国打击全球诈骗团伙，Operation Blackout 查扣近 170 亿美元]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/ijwyql360zls29f4sq95jgmab</link>
+      <description><![CDATA[<p>美国政府以 800 余名涉嫌诈骗人员、85 个联邦地区和 400 余起案件为对象，开展其称为规模最大的反诈骗行动。</p>
+<p>🔗 <a href="https://www.helpnetsecurity.com/2026/11/27/doj-scam-crackdown-800-scammers/">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ijwyql360zls29f4sq95jgmab">https://supertoom.github.io/dailyinfo/items/ijwyql360zls29f4sq95jgmab</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 05:30:28 GMT</pubDate>
+      <guid isPermaLink="false">ijwyql360zls29f4sq95jgmab</guid>
+      <author>noreply@192.168.2.208 (Help Net Security)</author>
+    </item>
+    <item>
+      <title><![CDATA[DIVD 内网入侵复盘：Zammad 漏洞与 ARP 欺骗注入 PostgreSQL 数据包]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/jws669bernblo6zw64kxoajjw</link>
+      <description><![CDATA[<p>荷兰漏洞披露机构 DIVD 的 Zammad 工单系统在 2026 年 9 月 21 日至 22 日被入侵，攻击者用 CVE-2026-102489 与 CVE-2026-102490 完成会话劫持、恶意 ERB 模板 RCE 和本地提权至 root，两项漏洞已列入 CISA KEV，需升级至 Zammad 7.2.2。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521585&amp;idx=1&amp;sn=2b7d214b61b5d5ec69078ae282f81bf1">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/jws669bernblo6zw64kxoajjw">https://supertoom.github.io/dailyinfo/items/jws669bernblo6zw64kxoajjw</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 03:43:00 GMT</pubDate>
+      <guid isPermaLink="false">jws669bernblo6zw64kxoajjw</guid>
+      <author>noreply@192.168.2.208 (奇安信威胁情报中心)</author>
+    </item>
+    <item>
+      <title><![CDATA[高仿 DeepSeek 官网借搜索广告批量投毒，下载安装可触发银狐木马]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/mncekqvys9bm2948z7smxva6n</link>
+      <description><![CDATA[<p>高仿 DeepSeek 官网通过搜索广告诱导用户下载桌面版安装包，部分安装包被指为“银狐”木马，可导致远程控制、微信盗用、流量劫持和文件丢失。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&amp;mid=2649790963&amp;idx=1&amp;sn=99d16643afb886f536ae5c4ff27031a1">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/mncekqvys9bm2948z7smxva6n">https://supertoom.github.io/dailyinfo/items/mncekqvys9bm2948z7smxva6n</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Fri, 27 Nov 2026 03:26:00 GMT</pubDate>
+      <guid isPermaLink="false">mncekqvys9bm2948z7smxva6n</guid>
+      <author>noreply@192.168.2.208 (安全客)</author>
+    </item>
+    <item>
       <title><![CDATA[North Korea关联PolinRider污染超7,600个GitHub仓库传播恶意软件]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/m5ausxhtut34kmi7zcnx0ncei</link>
       <description><![CDATA[<p>North Korea关联的PolinRider活动通过劫持开发者账户、提交恶意Pull Request和重写Git历史，向至少7,609个GitHub仓库植入Python加载器，涉及2,330个账户；2026年10月27日至11月6日间已推送至2,040个仓库。</p>
@@ -29,6 +150,17 @@
       <pubDate>Thu, 26 Nov 2026 14:15:00 GMT</pubDate>
       <guid isPermaLink="false">waly7f5cwuea4sg732ir9h5vt</guid>
       <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
+    </item>
+    <item>
+      <title><![CDATA[Salesforce AI Research 发布 ErosionBench 多智能体评测基准，提出语义对齐衰减与 Meta-Auditor 检测架构]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/x6dpauo25s92yme1jotwscvon</link>
+      <description><![CDATA[<p>Salesforce AI Research 团队于 2026 年 11 月发布 ErosionBench，提出语义对齐衰减（Semantic Alignment Decay）概念，即多智能体系统在跨会话状态继承与相互引用中逐步偏离用户授权，最终执行未经授权的动作。</p>
+<p>🔗 <a href="https://www.secrss.com/articles/96034">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/x6dpauo25s92yme1jotwscvon">https://supertoom.github.io/dailyinfo/items/x6dpauo25s92yme1jotwscvon</a></p>]]></description>
+      <category>AI 安全</category>
+      <pubDate>Thu, 26 Nov 2026 13:05:30 GMT</pubDate>
+      <guid isPermaLink="false">x6dpauo25s92yme1jotwscvon</guid>
+      <author>noreply@192.168.2.208 (安全内参)</author>
     </item>
     <item>
       <title><![CDATA[Juniper Session Smart Conductor 严重漏洞 CVE-2026-103406 已被利用]]></title>
@@ -425,138 +557,6 @@
       <pubDate>Wed, 25 Nov 2026 02:59:10 GMT</pubDate>
       <guid isPermaLink="false">ougur29x6priknjuve15twubc</guid>
       <author>noreply@192.168.2.208 (先知社区)</author>
-    </item>
-    <item>
-      <title><![CDATA[NGINX HTTP/2 释放后重用漏洞 CVE-2026-123633 分析与复现]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/v22kkapa6wiug2zqwrfadsbo1</link>
-      <description><![CDATA[<p>Unit 42 分析并复现了 NGINX HTTP/2 释放后重用漏洞 CVE-2026-123633。该问题影响 1.19.7 至 1.30.6 和 1.31.0 至 1.31.8，未认证攻击者在连接额度紧张并使用分片请求和请求时 DNS 解析时可能触发拒绝服务，F5 评分 CVSS 4.0 9.2、CVSS 3.1 8.1；禁用或绕过 ASLR 时可能实现代码执行。</p>
-<p>🔗 <a href="https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/v22kkapa6wiug2zqwrfadsbo1">https://supertoom.github.io/dailyinfo/items/v22kkapa6wiug2zqwrfadsbo1</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 24 Nov 2026 23:00:14 GMT</pubDate>
-      <guid isPermaLink="false">v22kkapa6wiug2zqwrfadsbo1</guid>
-      <author>noreply@192.168.2.208 (Unit 42)</author>
-    </item>
-    <item>
-      <title><![CDATA[Rackspace 因安全事件关闭 Spot 云平台，客户须在 12 月 8 日前迁移]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/rj90jojg8jxi2doqvzxf2u18u</link>
-      <description><![CDATA[<p>Rackspace 因 11 月 17 日的安全事件关闭 Spot 云平台，攻击者使用被盗凭据在客户 Kubernetes 集群中创建未授权 pods、读取 Kubernetes Secrets，并列出节点和存储卷。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/rj90jojg8jxi2doqvzxf2u18u">https://supertoom.github.io/dailyinfo/items/rj90jojg8jxi2doqvzxf2u18u</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 24 Nov 2026 21:37:30 GMT</pubDate>
-      <guid isPermaLink="false">rj90jojg8jxi2doqvzxf2u18u</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[ruflo MCP bridge 默认 Docker Compose 部署存在未认证 RCE]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/wlf4qedhmzrb2mc5l47se4bwn</link>
-      <description><![CDATA[<p>ruflo 的 MCP bridge 在默认 Docker Compose 部署中暴露无认证的 POST /mcp，并默认监听所有网络接口，未经认证的攻击者可调用 terminal_execute。</p>
-<p>🔗 <a href="https://github.com/advisories/GHSA-c4hm-4h84-2cf3">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/wlf4qedhmzrb2mc5l47se4bwn">https://supertoom.github.io/dailyinfo/items/wlf4qedhmzrb2mc5l47se4bwn</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 24 Nov 2026 21:01:10 GMT</pubDate>
-      <guid isPermaLink="false">wlf4qedhmzrb2mc5l47se4bwn</guid>
-      <author>noreply@192.168.2.208 (GitHub 安全公告)</author>
-    </item>
-    <item>
-      <title><![CDATA[Inception 仿冒品牌开展 SSO 电话钓鱼活动]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/fkosves1h11ym4ct505ac5i8p</link>
-      <description><![CDATA[<p>新组建的数据勒索组织 Inception 被认为自 10 月下旬起开展 SSO 钓鱼活动，主要通过电话社工而非电子邮件钓鱼，冒充 Dropbox、Nintendo、Starbucks 等数十家企业。</p>
-<p>🔗 <a href="https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/fkosves1h11ym4ct505ac5i8p">https://supertoom.github.io/dailyinfo/items/fkosves1h11ym4ct505ac5i8p</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 24 Nov 2026 20:21:20 GMT</pubDate>
-      <guid isPermaLink="false">fkosves1h11ym4ct505ac5i8p</guid>
-      <author>noreply@192.168.2.208 (BleepingComputer)</author>
-    </item>
-    <item>
-      <title><![CDATA[GeoServer 未认证远程代码执行漏洞链 CVE-2026-129242 等已复现]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/nhx83jvk238i041bf7tt09eqs</link>
-      <description><![CDATA[<p>GeoServer 未认证远程代码执行漏洞链涉及 CVE-2026-129244、CVE-2026-129243、CVE-2026-120705、CVE-2026-129245 和 CVE-2026-129242，奇安信 CERT 已复现，PoC 和技术细节均已公开。</p>
-<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&amp;mid=2247508259&amp;idx=1&amp;sn=33a6c21c2746e38d682fa7972dea6c4d">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/nhx83jvk238i041bf7tt09eqs">https://supertoom.github.io/dailyinfo/items/nhx83jvk238i041bf7tt09eqs</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 24 Nov 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="false">nhx83jvk238i041bf7tt09eqs</guid>
-      <author>noreply@192.168.2.208 (奇安信 CERT)</author>
-    </item>
-    <item>
-      <title><![CDATA[PHP-FPM FastCGI 连接复用请求走私漏洞 CVE-2026-129289 分析与复现]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/dxxqjaqglxg4apdale1xcta81</link>
-      <description><![CDATA[<p>PHP-FPM FastCGI 连接复用漏洞 CVE-2026-129289 可在 multipart 解析异常后残留伪造请求，以未授权身份执行第二个 FastCGI 请求并触发 www-data RCE，CVSS 4.0 为 9.2。</p>
-<p>🔗 <a href="https://xz.aliyun.com/news/93458">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/dxxqjaqglxg4apdale1xcta81">https://supertoom.github.io/dailyinfo/items/dxxqjaqglxg4apdale1xcta81</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Tue, 24 Nov 2026 16:05:14 GMT</pubDate>
-      <guid isPermaLink="false">dxxqjaqglxg4apdale1xcta81</guid>
-      <author>noreply@192.168.2.208 (先知社区)</author>
-    </item>
-    <item>
-      <title><![CDATA[Drupal 安装程序远程代码执行漏洞 CVE-2026-132165 已被在野利用]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/zptj6mohcgm2b6eayxup65amy</link>
-      <description><![CDATA[<p>奇安信 CERT 监测到 Drupal 安装程序远程代码执行漏洞 CVE-2026-132165 已被在野利用，该漏洞源于 Drupal core 安装器状态校验不当，攻击者可匿名续跑 /core/install.php 流程，覆盖 uid 1 管理员账户的用户名、邮箱和密码，接管站点并借已有模块、主题或文件写入入口执行任意命令。</p>
-<p>🔗 <a href="https://www.secrss.com/articles/95992">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/zptj6mohcgm2b6eayxup65amy">https://supertoom.github.io/dailyinfo/items/zptj6mohcgm2b6eayxup65amy</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">zptj6mohcgm2b6eayxup65amy</guid>
-      <author>noreply@192.168.2.208 (安全内参)</author>
-    </item>
-    <item>
-      <title><![CDATA[Unit 42 披露 10 余起 AI Agent 驱动的真实攻击活动]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/uj999ni2rujtk0wiode7kr6zy</link>
-      <description><![CDATA[<p>Unit 42 在 2026 年 7 月至 9 月追踪到 10 余起 AI Agent 驱动的全球攻击，目标覆盖政府、物流、酒店、制造、农业和教育行业。攻击者均通过易受攻击 Web 应用部署 Web Shell 建立初始访问，再由 Agent 自动执行侦察、凭据收集、提权与横向移动，将原本数周或数天的攻击周期压缩至数小时。</p>
-<p>🔗 <a href="https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/uj999ni2rujtk0wiode7kr6zy">https://supertoom.github.io/dailyinfo/items/uj999ni2rujtk0wiode7kr6zy</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 24 Nov 2026 15:00:19 GMT</pubDate>
-      <guid isPermaLink="false">uj999ni2rujtk0wiode7kr6zy</guid>
-      <author>noreply@192.168.2.208 (Unit 42)</author>
-    </item>
-    <item>
-      <title><![CDATA[HUMAN 捣毁 BADBOX 3.0 恶意广告与住宅代理僵尸网络]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/ymj47vp2164r65z6aew4oay2n</link>
-      <description><![CDATA[<p>HUMAN 的 Satori Threat Intelligence 团队捣毁了针对廉价 Android TV box、平板等设备的 BADBOX 3.0 广告欺诈与代理僵尸网络，高峰期每日产生约 40 billion 次广告竞价请求，占研究团队观测到的 CTV 流量超过 4%，并借助 C2、公共代码仓库、CDN 和 SSAI spoofing 维持运营。</p>
-<p>🔗 <a href="https://hackread.com/badbox-3-0-ad-fraud-botnet-disrupted-android-tv-boxes/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ymj47vp2164r65z6aew4oay2n">https://supertoom.github.io/dailyinfo/items/ymj47vp2164r65z6aew4oay2n</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 24 Nov 2026 14:34:34 GMT</pubDate>
-      <guid isPermaLink="false">ymj47vp2164r65z6aew4oay2n</guid>
-      <author>noreply@192.168.2.208 (Hackread)</author>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent 入侵 DIVD 事件复盘：Zammad 两漏洞链与网络分段止血]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/awdj9fvljkgfwpubtpz11ffye</link>
-      <description><![CDATA[<p>DIVD 确认其 Zammad 工单系统被 AI Agent 攻击，攻击者串联两个此前未知漏洞，先劫持会话在服务器执行代码，再于数分钟内取得 root 权限；两个漏洞已在 7.2.2 修复，建议所有 Zammad 用户升级至 version 7 或离线运行。</p>
-<p>🔗 <a href="https://www.offsec.com/blog/divd-attack/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/awdj9fvljkgfwpubtpz11ffye">https://supertoom.github.io/dailyinfo/items/awdj9fvljkgfwpubtpz11ffye</a></p>]]></description>
-      <category>AI 安全</category>
-      <pubDate>Tue, 24 Nov 2026 14:27:58 GMT</pubDate>
-      <guid isPermaLink="false">awdj9fvljkgfwpubtpz11ffye</guid>
-      <author>noreply@192.168.2.208 (OffSec)</author>
-    </item>
-    <item>
-      <title><![CDATA[Check Point Research 披露伊朗关联组织 Volant Manticore 攻击塞浦路斯及沙特医疗目标]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/o3kydory2xryg9jbza7s4q3m7</link>
-      <description><![CDATA[<p>Check Point Research 发现此前未记录的伊朗关联组织 Volant Manticore，通过虚假简历、医疗研讨会等钓鱼载荷投放 KuboShell 后门，并使用 Homa Framework 执行侦察和后续控制。</p>
-<p>🔗 <a href="https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/o3kydory2xryg9jbza7s4q3m7">https://supertoom.github.io/dailyinfo/items/o3kydory2xryg9jbza7s4q3m7</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Tue, 24 Nov 2026 14:13:55 GMT</pubDate>
-      <guid isPermaLink="false">o3kydory2xryg9jbza7s4q3m7</guid>
-      <author>noreply@192.168.2.208 (Check Point Research)</author>
-    </item>
-    <item>
-      <title><![CDATA[英国FCA要求金融机构管控AI Agent风险，否则将采取监管行动]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/ldspkafngxgpmt8icv3r5x8ao</link>
-      <description><![CDATA[<p>英国金融监管机构 FCA 警告金融机构，必须处理部署 AI Agent 带来的网络安全风险，否则可能面临监管行动。11 月 24 日发布的指引要求负责相关 AI 模型的资深管理者采取合理措施，理解系统自主程度及其风险，提供有效监督、适当治理控制和升级机制；机构还应评估接受 AI Agent 指令及付款的责任，通过清晰、相称且一致的免责声明说明模型提供的信息和建议边界。</p>
-<p>🔗 <a href="https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ldspkafngxgpmt8icv3r5x8ao">https://supertoom.github.io/dailyinfo/items/ldspkafngxgpmt8icv3r5x8ao</a></p>]]></description>
-      <category>政策法规</category>
-      <pubDate>Tue, 24 Nov 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="false">ldspkafngxgpmt8icv3r5x8ao</guid>
-      <author>noreply@192.168.2.208 (Infosecurity Magazine)</author>
     </item>
   </channel>
 </rss>

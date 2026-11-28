@@ -9,6 +9,21 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-28 — DIVD 内网入侵复盘：Zammad 漏洞与 ARP 欺骗注入 PostgreSQL 数据包]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-28</link>
+      <description><![CDATA[<p>荷兰漏洞披露机构 DIVD 的 Zammad 工单系统在 2026 年 9 月 21 日至 22 日被入侵，攻击者用 CVE-2026-102489 与 CVE-2026-102490 完成会话劫持、恶意 ERB 模板 RCE 和本地提权至 root，两项漏洞已列入 CISA KEV，需升级至 Zammad 7.2.2。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre">Cacti Core 1.2.31 未授权远程代码执行漏洞 QVD-2026-117631 已公开 PoC</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ac1tlqg3g5b5d0yn83tpuilhf">Linux 内核 NFS 服务器漏洞 CVE-2026-99362 可远程提权，OpenSec 称其为 NFS2ROOT</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/jws669bernblo6zw64kxoajjw">DIVD 内网入侵复盘：Zammad 漏洞与 ARP 欺骗注入 PostgreSQL 数据包</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/hula7qv4z43seiug59c3dry5x">SAP 确认遭遇网络攻击，GitHub 上的源代码据称被窃取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wuwxqwmjofamcgppwkw7wuf5s">美国空军 Cloud One 云平台遭入侵，攻击范围与数据失窃情况不明</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/qsdh0wd9ulfwtz0jempu7h8zj">瑞士确认 AI 代理攻击入侵关键基础设施运营机构</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/mncekqvys9bm2948z7smxva6n">高仿 DeepSeek 官网借搜索广告批量投毒，下载安装可触发银狐木马</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bp3mhwtmbzqp2s4qlj7c99iek">科罗拉多州 myColorado 应用数据泄露，约 100,000 人可能受影响</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/emxtvs4jso1up4wm8nw6pcp6o">疑似越南关联黑客组织 WeaveLotus 借漏洞和弱口令攻击东南亚</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ijwyql360zls29f4sq95jgmab">美国打击全球诈骗团伙，Operation Blackout 查扣近 170 亿美元</a></li></ul>
+<p><strong>AI 安全</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/wxa4qyt8tjvrulxqjudzktvpj">研究称 GPT-6.1 Sol 与 DeepSeek V4.1 Flash 已能直接推理机器码并修改 ELF64</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/x6dpauo25s92yme1jotwscvon">Salesforce AI Research 发布 ErosionBench 多智能体评测基准，提出语义对齐衰减与 Meta-Auditor 检测架构</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-28">https://supertoom.github.io/dailyinfo/daily/2026-11-28</a></p>]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:00:20 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-28</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-27 — Drupal 安装器补丁遗漏导致 CVE-2026-136716 已被在野利用]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-27</link>
       <description><![CDATA[<p>Drupal 披露 CVE-2026-136716，其 CMSS 评分为 21/25，属于可导致网站接管的访问绕过漏洞，并确认已在野利用。</p>
@@ -453,21 +468,6 @@
 <p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-30">https://supertoom.github.io/dailyinfo/daily/2026-10-30</a></p>]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:19 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-30</guid>
-      <author>noreply@192.168.2.208 (DailyInfo)</author>
-    </item>
-    <item>
-      <title><![CDATA[DailyInfo 日报 · 2026-10-29 — GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件]]></title>
-      <link>https://supertoom.github.io/dailyinfo/daily/2026-10-29</link>
-      <description><![CDATA[<p>GMO旗下Onamae云桌面服务遭网络攻击，最多26,739名客户的服务器被植入恶意软件，客户支付信息未泄露，但MT4/MT5登录凭证及交易账号信息可能暴露。攻击者窃取数据后索要高达80亿日元赎金，并威胁启动已植入的勒索软件载荷。GMO关闭相关服务器并敦促客户断网关机、重置密码和终止会话；目前尚未发现客户电脑上的勒索软件被激活。</p>
-<p><strong>漏洞与在野利用</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/mnxtybnzit795ejslskcd1v8b">Oracle E-Business Suite 漏洞 CVE-2026-101767 补丁后遭探索性利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/sn7aglzxgosi5bih83rljqrmt">CISA 确认 PHP2Shell 漏洞 CVE-2026-109618 和 CVE-2026-109619 已遭在野利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/jtfc7xy2x7a2pqxrr0ivv2g1k">CISA确认攻击者正在利用Brotli漏洞CVE-2026-111497</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ab8pl4m4w1rix1cyy06pzrdy7">Model Context Protocol Python SDK 客户端漏洞可触发外部 URL 请求或本地文件读取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/a86w01coohmdcf89mgj77w1j0">FileBrowser 1.3.3-stable 符号链接越界导致目录外任意文件读取</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vsfs000d1boyjr3m5ahd2iza2">Tailscale 修复 Tailworm SSH 漏洞，v1.104.4 已发布</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/z1aubpyma2sr8f7iyg11db39j">EDK II UEFI 漏洞 CVE-2026-97631 可在预操作系统阶段执行任意代码</a></li></ul>
-<p><strong>攻击与威胁</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/zwh7qiot8b8294xdoeg7i356t">GMO旗下Onamae云桌面服务遭入侵，最多26,739台服务器被植入恶意软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/vuvau9rjn8ik414g6xpi91tx9">攻击者利用 Microsoft Teams 冒充 IT 支持，部署 GoGRPC 后门与 Chaos 勒索软件</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/f1ouf60ewvurduuj73co4r1ov">LodaRAT 以伪造美国法院通知钓鱼，已针对逾 100,000 家企业</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/lpx0fpf5dtulg95plg0vd0qsv">FBI 查封 Virtualine 防弹托管域名及其犯罪论坛</a></li></ul>
-<p><strong>AI 安全</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/hdxaeayrb1qzp0s15cvtw0yuv">Trend Micro 分析三起以日本为主要目标的 AI 辅助网络攻击</a></li></ul>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-29">https://supertoom.github.io/dailyinfo/daily/2026-10-29</a></p>]]></description>
-      <pubDate>Wed, 28 Oct 2026 17:14:31 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-29</guid>
       <author>noreply@192.168.2.208 (DailyInfo)</author>
     </item>
   </channel>
