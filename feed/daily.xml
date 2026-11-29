@@ -9,6 +9,19 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[DailyInfo 日报 · 2026-11-29 — Ubuntu 更新 Apache HTTP Server 漏洞并修复重定向 Cookie 回归问题]]></title>
+      <link>https://supertoom.github.io/dailyinfo/daily/2026-11-29</link>
+      <description><![CDATA[<p>Ubuntu 发布 Apache HTTP Server 安全更新，修复 CVE-2026-46729、CVE-2026-47360、CVE-2026-48005、CVE-2026-56153、CVE-2026-56449、CVE-2026-56154、CVE-2026-57941、CVE-2026-59797、CVE-2026-58415、CVE-2026-63045、CVE-2026-63292、CVE-2026-63686、CVE-2026-63718、CVE-2026-73636、CVE-2026-73637、CVE-2026-79768 和 CVE-2026-93546，涉及拒绝服务、任意代码执行、敏感信息泄露、认证绕过及 HTTP 响应走私等风险。受影响版本覆盖 Ubuntu 14.04 LTS、16.04 LTS、18.04 LTS、20.04 LTS、22.04 LTS、24.04 LTS、26.04 LTS 和 26.10，部分漏洞仅影响 Ubuntu 26.10。USN-9016-1 的上游修复还引入在特定情况下阻止重定向设置 Cookie 的回归问题，本次更新一并修复。</p>
+<p><strong>漏洞与在野利用</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/a3qinevddrodxn0pt9a1gi27v">Ubuntu 更新 Apache HTTP Server 漏洞并修复重定向 Cookie 回归问题</a></li></ul>
+<p><strong>攻击与威胁</strong></p>
+<ul><li><a href="https://supertoom.github.io/dailyinfo/items/fvrqffd9ourqoe70wou50cp6c">意大利伪造政府应用利用 Morpheus 间谍软件监控寻求庇护者</a></li></ul>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-11-29">https://supertoom.github.io/dailyinfo/daily/2026-11-29</a></p>]]></description>
+      <pubDate>Sun, 29 Nov 2026 00:00:32 GMT</pubDate>
+      <guid isPermaLink="false">daily-2026-11-29</guid>
+      <author>noreply@192.168.2.208 (DailyInfo)</author>
+    </item>
+    <item>
       <title><![CDATA[DailyInfo 日报 · 2026-11-28 — DIVD 内网入侵复盘：Zammad 漏洞与 ARP 欺骗注入 PostgreSQL 数据包]]></title>
       <link>https://supertoom.github.io/dailyinfo/daily/2026-11-28</link>
       <description><![CDATA[<p>荷兰漏洞披露机构 DIVD 的 Zammad 工单系统在 2026 年 9 月 21 日至 22 日被入侵，攻击者用 CVE-2026-102489 与 CVE-2026-102490 完成会话劫持、恶意 ERB 模板 RCE 和本地提权至 root，两项漏洞已列入 CISA KEV，需升级至 Zammad 7.2.2。</p>
@@ -451,23 +464,6 @@
 <p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-31">https://supertoom.github.io/dailyinfo/daily/2026-10-31</a></p>]]></description>
       <pubDate>Sat, 31 Oct 2026 00:00:13 GMT</pubDate>
       <guid isPermaLink="false">daily-2026-10-31</guid>
-      <author>noreply@192.168.2.208 (DailyInfo)</author>
-    </item>
-    <item>
-      <title><![CDATA[DailyInfo 日报 · 2026-10-30 — Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击]]></title>
-      <link>https://supertoom.github.io/dailyinfo/daily/2026-10-30</link>
-      <description><![CDATA[<p>Volt Typhoon 使用 Silent Train 中继框架，通过境外 VPS、被入侵的路由器及其他设备隐藏攻击来源，并利用至少 4 个零日漏洞攻击电信、政府、国防承包商、公用事业、卫星服务、航空等高价值目标。</p>
-<p><strong>漏洞与在野利用</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/gz5wepydgx19541hqwvty4syk">Cisco ASA 与 FTD 远程访问 SSL VPN 隧道 DoS 漏洞 CVE-2026-76418 已被利用</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/xpytoqbtuulo3rw9z3h510qhs">Mem0 会话范围键分隔符碰撞漏洞可导致跨租户对话泄露</a></li></ul>
-<p><strong>攻击与威胁</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/n8ley102n83kjrh7ne1s1q0wy">Volt Typhoon 利用 Silent Train 框架隐藏零日漏洞攻击</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/m8vt0mfprflyha4qd0f1jbnwd">VAPOR PANDA 使用 ARTEX 与 DeepSeek 并行入侵全球 200 多家组织</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/ihl9k919cuk2zeu8m5uh5sr73">Polymarket 因第三方服务遭入侵暂停交易，约 $2.5M 加密资产被追踪</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/r33vqb4ahc08c2y4ozgccut2g">疑似中国关联攻击者利用 PHP2Shell 在 25 台服务器取得 root 权限并渗透 Active Directory</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/wsntmow6j7f4emvphlkjlx4fh">独立研究员在 Gitee 公开仓库发现 26,400 个仍有效的云与 AI 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/bd7wabp95rfnfjrzp7ji0kci5">TrendAI 指 Discover-Tech 通过数字广告跟踪 Starlink 用户</a></li></ul>
-<p><strong>研究与披露</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/xn04uir3ppltopryw25ryri8a">Orange Tsai 披露 Microsoft Edge 纯逻辑漏洞全链，实现沙箱逃逸与 ACE</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/n7t33b4zzyzxy6gb2u55dbm5s">cert-manager 直接创建 Challenge 可绕过 DNS01 策略并泄露 acme-dns 凭据</a></li><li><a href="https://supertoom.github.io/dailyinfo/items/nvjhxml6qmgj1n5fihl71npjw">php2shell 技术分析：PHP 两个 RCE 生命周期漏洞 CVE-2026-109618 与 CVE-2026-109619</a></li></ul>
-<p><strong>AI 安全</strong></p>
-<ul><li><a href="https://supertoom.github.io/dailyinfo/items/s5egftxgd4pzsuybtmy9c5i8d">Forever Security 披露 Cursor、Copilot、Codex、VS Code 与 Claude Desktop 内置浏览器漏洞</a></li></ul>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/daily/2026-10-30">https://supertoom.github.io/dailyinfo/daily/2026-10-30</a></p>]]></description>
-      <pubDate>Fri, 30 Oct 2026 00:00:19 GMT</pubDate>
-      <guid isPermaLink="false">daily-2026-10-30</guid>
       <author>noreply@192.168.2.208 (DailyInfo)</author>
     </item>
   </channel>

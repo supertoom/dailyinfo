@@ -9,6 +9,17 @@
     <ttl>30</ttl>
     <generator>DailyInfo (https://supertoom.github.io/dailyinfo/agent)</generator>
     <item>
+      <title><![CDATA[意大利伪造政府应用利用 Morpheus 间谍软件监控寻求庇护者]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/fvrqffd9ourqoe70wou50cp6c</link>
+      <description><![CDATA[<p>IrpiMedia 调查称，意大利内政部标识的 Android 应用 FirmaDigitale 伪装成庇护者保护状态通知，实际投递 Morpheus 间谍软件。</p>
+<p>🔗 <a href="https://securityaffairs.com/204142/intelligence/fake-government-app-exposes-italys-expanding-spyware-surveillance-industry.html">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/fvrqffd9ourqoe70wou50cp6c">https://supertoom.github.io/dailyinfo/items/fvrqffd9ourqoe70wou50cp6c</a></p>]]></description>
+      <category>攻击活动</category>
+      <pubDate>Sat, 28 Nov 2026 00:08:30 GMT</pubDate>
+      <guid isPermaLink="false">fvrqffd9ourqoe70wou50cp6c</guid>
+      <author>noreply@192.168.2.208 (Security Affairs)</author>
+    </item>
+    <item>
       <title><![CDATA[疑似越南关联黑客组织 WeaveLotus 借漏洞和弱口令攻击东南亚]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/emxtvs4jso1up4wm8nw6pcp6o</link>
       <description><![CDATA[<p>SOCRadar 披露，疑似越南关联组织 WeaveLotus 于 2026 年 8 月至 9 月实施 RedOps 间谍活动，针对菲律宾、泰国和印度尼西亚的军方、政府及立法机构收集南海防务与军事协议情报。</p>
@@ -42,17 +53,6 @@
       <author>noreply@192.168.2.208 (安全内参)</author>
     </item>
     <item>
-      <title><![CDATA[Cacti Core 1.2.31 未授权远程代码执行漏洞 QVD-2026-117631 已公开 PoC]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre</link>
-      <description><![CDATA[<p>Cacti Core 1.2.31 存在未授权远程代码执行漏洞 QVD-2026-117631，攻击者在启用 Guest 账户且可访问 Web 接口时，无需认证即可通过少量 HTTP 请求执行任意命令。</p>
-<p>🔗 <a href="https://www.secrss.com/articles/96052">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre">https://supertoom.github.io/dailyinfo/items/rfirwc4gz7xd4ktjxcnwoqtre</a></p>]]></description>
-      <category>漏洞与在野利用</category>
-      <pubDate>Fri, 27 Nov 2026 10:05:30 GMT</pubDate>
-      <guid isPermaLink="false">rfirwc4gz7xd4ktjxcnwoqtre</guid>
-      <author>noreply@192.168.2.208 (安全内参)</author>
-    </item>
-    <item>
       <title><![CDATA[科罗拉多州 myColorado 应用数据泄露，约 100,000 人可能受影响]]></title>
       <link>https://supertoom.github.io/dailyinfo/items/bp3mhwtmbzqp2s4qlj7c99iek</link>
       <description><![CDATA[<p>科罗拉多州州长信息技术办公室（OIT）披露，攻击者未经授权访问 myColorado 应用数据，约 100,000 人可能受影响。该应用约有 2.1 million 用户，泄露内容位于“myCards and Documents”区段，包括 PDF 文件、政府身份证件、车辆登记和保险卡照片，但未访问支付信息。</p>
@@ -62,6 +62,17 @@
       <pubDate>Fri, 27 Nov 2026 09:30:54 GMT</pubDate>
       <guid isPermaLink="false">bp3mhwtmbzqp2s4qlj7c99iek</guid>
       <author>noreply@192.168.2.208 (SecurityWeek)</author>
+    </item>
+    <item>
+      <title><![CDATA[Cacti 未授权远程代码执行漏洞 QVD-2026-117631 已复现，CVSS 3.1 9.8]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/sq959gxd7blu324wq7irv97yz</link>
+      <description><![CDATA[<p>Cacti 未授权远程代码执行漏洞 QVD-2026-117631 可由未认证攻击者通过少量 HTTP 请求执行任意命令，影响量为万级，CVSS 3.1 分数为 9.8，奇安信评级高危。</p>
+<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&amp;mid=2247508295&amp;idx=1&amp;sn=7dd007931f4c6a435e8cec4ddc731116">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/sq959gxd7blu324wq7irv97yz">https://supertoom.github.io/dailyinfo/items/sq959gxd7blu324wq7irv97yz</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Fri, 27 Nov 2026 09:24:00 GMT</pubDate>
+      <guid isPermaLink="false">sq959gxd7blu324wq7irv97yz</guid>
+      <author>noreply@192.168.2.208 (奇安信 CERT)</author>
     </item>
     <item>
       <title><![CDATA[Linux 内核 NFS 服务器漏洞 CVE-2026-99362 可远程提权，OpenSec 称其为 NFS2ROOT]]></title>
@@ -128,6 +139,17 @@
       <pubDate>Fri, 27 Nov 2026 03:26:00 GMT</pubDate>
       <guid isPermaLink="false">mncekqvys9bm2948z7smxva6n</guid>
       <author>noreply@192.168.2.208 (安全客)</author>
+    </item>
+    <item>
+      <title><![CDATA[Ubuntu 更新 Apache HTTP Server 漏洞并修复重定向 Cookie 回归问题]]></title>
+      <link>https://supertoom.github.io/dailyinfo/items/a3qinevddrodxn0pt9a1gi27v</link>
+      <description><![CDATA[<p>Ubuntu 发布 Apache HTTP Server 安全更新，修复 CVE-2026-46729、CVE-2026-47360、CVE-2026-48005、CVE-2026-56153、CVE-2026-56449、CVE-2026-56154、CVE-2026-57941、CVE-2026-59797、CVE-2026-58415、CVE-2026-63045、CVE-2026-63292、CVE-2026-63686、CVE-2026-63718、CVE-2026-73636、CVE-2026-73637、CVE-2026-79768 和 CVE-2026-93546，涉及拒绝服务、任意代码执行、敏感信息泄露、认证绕过及 HTTP 响应走私等风险。受影响版本覆盖 Ubuntu 14.04 LTS、16.04 LTS、18.04 LTS、20.04 LTS、22.04 LTS、24.04 LTS、26.04 LTS 和 26.10，部分漏洞仅影响 Ubuntu 26.10。USN-9016-1 的上游修复还引入在特定情况下阻止重定向设置 Cookie 的回归问题，本次更新一并修复。</p>
+<p>🔗 <a href="https://ubuntu.com/security/notices/USN-9016-2">阅读原文</a></p>
+<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/a3qinevddrodxn0pt9a1gi27v">https://supertoom.github.io/dailyinfo/items/a3qinevddrodxn0pt9a1gi27v</a></p>]]></description>
+      <category>漏洞与在野利用</category>
+      <pubDate>Thu, 26 Nov 2026 22:34:55 GMT</pubDate>
+      <guid isPermaLink="false">a3qinevddrodxn0pt9a1gi27v</guid>
+      <author>noreply@192.168.2.208 (Ubuntu 安全公告)</author>
     </item>
     <item>
       <title><![CDATA[North Korea关联PolinRider污染超7,600个GitHub仓库传播恶意软件]]></title>
@@ -535,28 +557,6 @@
       <pubDate>Wed, 25 Nov 2026 05:15:00 GMT</pubDate>
       <guid isPermaLink="false">q0lsfhn32cxsdecbzc9oo3rfd</guid>
       <author>noreply@192.168.2.208 (绿盟科技CERT)</author>
-    </item>
-    <item>
-      <title><![CDATA[DLSS 5 Swapper 官网安装包被替换并投递信息窃取程序]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/qisjy9p95panczoi5l58gkd5l</link>
-      <description><![CDATA[<p>DLSS 5 Swapper 官网分发的 v2.2.9 安装包被同名恶意文件替换，官网公布 SHA-256 为 e89fb5e59b4304e1fb2bccba7d24353ef83ea22b7b699c68a33828ae4420f735。</p>
-<p>🔗 <a href="https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521528&amp;idx=1&amp;sn=6633daf792ad9501abfb9865bf28cec1">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/qisjy9p95panczoi5l58gkd5l">https://supertoom.github.io/dailyinfo/items/qisjy9p95panczoi5l58gkd5l</a></p>]]></description>
-      <category>攻击活动</category>
-      <pubDate>Wed, 25 Nov 2026 04:06:00 GMT</pubDate>
-      <guid isPermaLink="false">qisjy9p95panczoi5l58gkd5l</guid>
-      <author>noreply@192.168.2.208 (奇安信威胁情报中心)</author>
-    </item>
-    <item>
-      <title><![CDATA[ELF DT_RELR 压缩重定位导致 objdump -R 审计盲区分析与绕过]]></title>
-      <link>https://supertoom.github.io/dailyinfo/items/ougur29x6priknjuve15twubc</link>
-      <description><![CDATA[<p>研究复现了 GNU 与 LLVM 的 objdump -R 不展开 DT_RELR 的审计盲区：样本 librelr.so 含 11 个动态重定位目标，objdump -R 仅报告 7 个。</p>
-<p>🔗 <a href="https://xz.aliyun.com/news/93459">阅读原文</a></p>
-<p>via DailyInfo · <a href="https://supertoom.github.io/dailyinfo/items/ougur29x6priknjuve15twubc">https://supertoom.github.io/dailyinfo/items/ougur29x6priknjuve15twubc</a></p>]]></description>
-      <category>细节披露</category>
-      <pubDate>Wed, 25 Nov 2026 02:59:10 GMT</pubDate>
-      <guid isPermaLink="false">ougur29x6priknjuve15twubc</guid>
-      <author>noreply@192.168.2.208 (先知社区)</author>
     </item>
   </channel>
 </rss>
